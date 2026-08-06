@@ -12,7 +12,7 @@ Công trình của **chị Ngọc Diệp tại Khu đô thị Royal City, Thanh 
 
 Qua trao đổi, mong muốn của chị Diệp khá rõ ràng: tạo cho con gái một góc học tập riêng, có màu sắc nhẹ nhàng, nhiều cảm hứng nhưng vẫn đảm bảo sự gọn gàng và dễ sử dụng trong nhiều năm. Thay vì chỉ lựa chọn một chiếc bàn đẹp, tôi bắt đầu bằng việc nghiên cứu vị trí đặt bàn để tận dụng nguồn sáng tự nhiên, hướng nhìn và khoảng lưu thông trong phòng ngủ.
 
-Sau khi hoàn thiện phương án, tôi lựa chọn mẫu **[Bàn học cho bé gái nhựa Đài Loan Chin Huei màu hồng CH-BH01](https://noithatchinhuei.io.vn/ban-hoc-cho-be-gai-nhua-dai-loan-chin-huei-mau-hong-ch-bh01/)**. Đây là thiết kế có tỷ lệ cân đối, tích hợp giá sách và ngăn lưu trữ, giúp tối ưu diện tích nhưng vẫn giữ được sự thông thoáng cho không gian.
+Sau khi hoàn thiện phương án, tôi lựa chọn mẫu **bàn học BH01. Đây là thiết kế có tỷ lệ cân đối, tích hợp giá sách và ngăn lưu trữ, giúp tối ưu diện tích nhưng vẫn giữ được sự thông thoáng cho không gian.
 
 Điểm tôi đánh giá cao ở mẫu bàn này không nằm ở gam màu hồng mà ở cách tổ chức công năng. Mỗi khu vực đều có chức năng rõ ràng: mặt bàn đủ rộng cho việc học tập, giá sách nằm trong tầm với, các ngăn kéo giúp trẻ hình thành thói quen sắp xếp đồ dùng một cách khoa học. Một thiết kế tốt luôn giúp người sử dụng thao tác tự nhiên thay vì phải thích nghi với sản phẩm.
 
@@ -82,10 +82,4 @@ Vai trò của người thiết kế là tìm ra phương án phù hợp nhất 
 
 📞 Hotline: **0359 117 525**
 
-## KTS Cường Nguyễn
 
-🌐 Website: https://ktscuongnguyen.github.io
-
-📷 Instagram: https://www.instagram.com/ktscuongnguyen/
-
-📞 Hotline: **0359 117 525**
