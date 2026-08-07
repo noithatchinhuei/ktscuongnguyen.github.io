@@ -1,72 +1,9 @@
 ---
 layout: default
 title: "Chị Lê Hải Yến bàn giao tủ quần áo 5 cánh nhựa Đài Loan Chin Huei tại Green Stars"
+description: "Bàn giao tủ quần áo 5 cánh nhựa Đài Loan Chin Huei CH-T5C01 cho chị Lê Hải Yến tại Chung cư Green Stars, Phạm Văn Đồng, Hà Nội."
 permalink: /du-an/le-hai-yen-green-stars/
 ---
----
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@graph": [
-    {
-      "@type": "Article",
-      "@id": "{{ page.url | absolute_url }}#article",
-      "headline": "Chị Lê Hải Yến bàn giao tủ quần áo 5 cánh nhựa Đài Loan Chin Huei tại Green Stars",
-      "description": "KTS Cường Nguyễn ghi nhận công trình bàn giao tủ quần áo 5 cánh nhựa Đài Loan Chin Huei cho chị Lê Hải Yến tại chung cư Green Stars, Phạm Văn Đồng, Hà Nội.",
-      "image": "https://noithatchinhuei.io.vn/wp-content/uploads/2026/06/Tu-quan-ao-5-canh-mo-kem-1-ke-trang-tri-nhua-Dai-Loan-Chin-Huei-CH-T5C01-dep-1-600x614.webp",
-      "author": {
-        "@type": "Person",
-        "name": "KTS Cường Nguyễn",
-        "url": "https://ktscuongnguyen.blogspot.com/"
-      },
-      "publisher": {
-        "@type": "Person",
-        "name": "KTS Cường Nguyễn",
-        "url": "https://noithatchinhuei.github.io/ktscuongnguyen.github.io/"
-      },
-      "mainEntityOfPage": {
-        "@type": "WebPage",
-        "@id": "{{ page.url | absolute_url }}"
-      },
-      "inLanguage": "vi-VN"
-    },
-    {
-      "@type": "Product",
-      "name": "Tủ quần áo 5 cánh mở kèm 1 kệ trang trí nhựa Đài Loan Chin Huei CH-T5C01",
-      "image": "https://noithatchinhuei.io.vn/wp-content/uploads/2026/06/Tu-quan-ao-5-canh-mo-kem-1-ke-trang-tri-nhua-Dai-Loan-Chin-Huei-CH-T5C01-dep-1-600x614.webp",
-      "brand": {
-        "@type": "Brand",
-        "name": "Chin Huei"
-      },
-      "category": "Tủ quần áo nhựa"
-    },
-    {
-      "@type": "BreadcrumbList",
-      "itemListElement": [
-        {
-          "@type": "ListItem",
-          "position": 1,
-          "name": "KTS Cường Nguyễn",
-          "item": "https://noithatchinhuei.github.io/ktscuongnguyen.github.io/"
-        },
-        {
-          "@type": "ListItem",
-          "position": 2,
-          "name": "Dự án",
-          "item": "https://noithatchinhuei.github.io/ktscuongnguyen.github.io/du-an/"
-        },
-        {
-          "@type": "ListItem",
-          "position": 3,
-          "name": "Chị Lê Hải Yến - Green Stars",
-          "item": "{{ page.url | absolute_url }}"
-        }
-      ]
-    }
-  ]
-}
-</script>
 
 # Chị Lê Hải Yến bàn giao tủ quần áo 5 cánh nhựa Đài Loan Chin Huei tại Green Stars
 
@@ -75,8 +12,6 @@ permalink: /du-an/le-hai-yen-green-stars/
 Với tôi, khi xử lý một hệ tủ quần áo cho căn hộ, điều quan trọng không chỉ là tăng diện tích lưu trữ mà còn phải kiểm soát được tỷ lệ của cả mảng tường. Một hệ tủ quá nhỏ sẽ tạo ra nhiều khoảng trống khó sử dụng, trong khi một hệ tủ quá nặng về hình khối có thể khiến phòng ngủ trở nên bí.
 
 Trong công trình lần này, phương án được lựa chọn là **tủ quần áo 5 cánh mở kèm 1 kệ trang trí nhựa Đài Loan Chin Huei CH-T5C01**.
-
-![Tủ quần áo 5 cánh mở kèm 1 kệ trang trí nhựa Đài Loan Chin Huei CH-T5C01](https://noithatchinhuei.io.vn/wp-content/uploads/2026/06/Tu-quan-ao-5-canh-mo-kem-1-ke-trang-tri-nhua-Dai-Loan-Chin-Huei-CH-T5C01-dep-1-600x614.webp)
 
 Điểm đáng chú ý của thiết kế là cách tổ chức **khối tủ đóng kết hợp khoảng kệ mở**. Năm cánh tủ tạo thành một mảng lưu trữ tương đối lớn, trong khi phần kệ bên cạnh giúp hệ nội thất có thêm khoảng rỗng để cân bằng thị giác.
 
@@ -117,4 +52,6 @@ Ngõ 19 Hàm Nghi, phường Từ Liêm, Hà Nội
 
 👉 **[Xem trang chủ KTS Cường Nguyễn](https://noithatchinhuei.github.io/ktscuongnguyen.github.io/)**
 
-**CTA:** Nếu anh/chị đang cần một hệ tủ quần áo nhựa được tư vấn theo mặt bằng thực tế, hãy liên hệ KTS Cường Nguyễn để trao đổi nhu cầu, kích thước và phương án bố trí phù hợp trước khi sản xuất.
+### CTA
+
+Nếu anh/chị đang cần một hệ tủ quần áo nhựa được tư vấn theo mặt bằng thực tế, hãy liên hệ **KTS Cường Nguyễn** để trao đổi nhu cầu, kích thước và phương án bố trí phù hợp trước khi sản xuất.
