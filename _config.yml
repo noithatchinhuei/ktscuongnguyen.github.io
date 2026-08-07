@@ -1,6 +1,9 @@
 title: KTS Cường Nguyễn
-description: Kiến trúc sư – Thiết kế nội thất – Nội thất nhựa Đài Loan Chin Huei
+description: Thiết kế nội thất nhựa Đài Loan Chin Huei tại Hà Nội
 theme: minima
+
+url: "https://noithatchinhuei.github.io"
+baseurl: "/ktscuongnguyen.github.io"
 
 header_pages:
   - index.md
