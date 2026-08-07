@@ -1,3 +1,10 @@
 title: KTS Cường Nguyễn
-description: Thiết kế nội thất nhựa Đài Loan Chin Huei
+description: Kiến trúc sư – Thiết kế nội thất – Nội thất nhựa Đài Loan Chin Huei
 theme: minima
+
+header_pages:
+  - index.md
+  - gioi-thieu.md
+  - du-an.md
+  - goc-nhin-kien-truc.md
+  - lien-he.md
