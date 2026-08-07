@@ -1,6 +1,7 @@
 ---
-layout: page
-title: Anh Tiến Đạt – Phường Quang Trung, Hà Đông
+layout: default
+title: "Anh Tiến Đạt – Tủ nhựa trẻ em tại Phường Quang Trung, Hà Đông"
+description: "KTS Cường Nguyễn bàn giao giải pháp tủ nhựa quần áo trẻ em Đài Loan Chin Huei cho anh Tiến Đạt tại Phường Quang Trung, Hà Đông."
 permalink: /du-an/anh-tien-dat-ha-dong/
 ---
 
@@ -30,8 +31,8 @@ Nhờ khoảng cách từ xưởng đến công trình chỉ khoảng 15km, vi�
 
 **KTS Cường Nguyễn**
 
-🌐 Website: https://ktscuongnguyen.github.io
+🌐 Website: [KTS Cường Nguyễn](https://ktscuongnguyen.github.io/)
 
-📷 Instagram: https://www.instagram.com/ktscuongnguyen/
+📷 Instagram: [KTS Cường Nguyễn](https://www.instagram.com/ktscuongnguyen/)
 
 📞 Hotline: **0359 117 525**
