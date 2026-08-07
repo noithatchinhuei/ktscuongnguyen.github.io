@@ -1,7 +1,8 @@
 ---
 layout: default
 title: "Chị Lê Hải Yến bàn giao tủ quần áo 5 cánh nhựa Đài Loan Chin Huei tại Green Stars"
-description: "KTS Cường Nguyễn ghi nhận công trình bàn giao tủ quần áo 5 cánh nhựa Đài Loan Chin Huei cho chị Lê Hải Yến tại chung cư Green Stars, Phạm Văn Đồng, Hà Nội."
+permalink: /du-an/le-hai-yen-green-stars/
+---
 ---
 
 <script type="application/ld+json">
