@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Dự án
-permalink: /du-an/
+permalink: /du-an-tong-hop/
 ---
 
 # Dự án
