@@ -1,87 +1,15 @@
 ---
 layout: default
 title: "Bàn giao tủ quần áo 4 cánh lùa CH-T4C16 cho anh Quang Hải và cô Thu Hồng ngày 7/8"
-description: "KTS Cường Nguyễn ghi nhận hai công trình bàn giao tủ quần áo 4 cánh lùa kèm kệ trang trí nhựa Đài Loan Chin Huei CH-T4C16 cho anh Quang Hải tại Vinhomes Smart City và cô Thu Hồng tại Ciputra."
+description: "KTS Cường Nguyễn ghi nhận hai công trình bàn giao tủ quần áo 4 cánh lùa CH-T4C16 cho anh Quang Hải tại Vinhomes Smart City và cô Thu Hồng tại Ciputra, Hà Nội."
+permalink: /du-an/quang-hai-thu-hong-t4c16/
 ---
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@graph": [
-    {
-      "@type": "Article",
-      "@id": "{{ page.url | absolute_url }}#article",
-      "headline": "Bàn giao tủ quần áo 4 cánh lùa CH-T4C16 cho anh Quang Hải và cô Thu Hồng ngày 7/8",
-      "description": "KTS Cường Nguyễn ghi nhận hai công trình bàn giao tủ quần áo 4 cánh lùa kèm kệ trang trí nhựa Đài Loan Chin Huei CH-T4C16 với hai phiên bản màu khác nhau.",
-      "image": [
-        "https://noithatchinhuei.io.vn/wp-content/uploads/2026/06/Tu-quan-ao-4-canh-lua-kem-ke-trang-tri-nhua-Dai-Loan-Chin-Huei-CH-T4C16-mau-go-soi-600x687.webp",
-        "https://noithatchinhuei.io.vn/wp-content/uploads/2026/06/Tu-quan-ao-4-canh-lua-kem-ke-trang-tri-nhua-Dai-Loan-Chin-Huei-CH-T4C16-mau-trang-600x580.webp"
-      ],
-      "author": {
-        "@type": "Person",
-        "name": "KTS Cường Nguyễn",
-        "jobTitle": "Kiến trúc sư",
-        "url": "https://ktscuongnguyen.blogspot.com/"
-      },
-      "publisher": {
-        "@type": "Person",
-        "name": "KTS Cường Nguyễn",
-        "url": "https://noithatchinhuei.github.io/ktscuongnguyen.github.io/"
-      },
-      "mainEntityOfPage": {
-        "@type": "WebPage",
-        "@id": "{{ page.url | absolute_url }}"
-      },
-      "datePublished": "2026-08-07",
-      "inLanguage": "vi-VN"
-    },
-    {
-      "@type": "Product",
-      "name": "Tủ quần áo 4 cánh lùa kèm kệ trang trí nhựa Đài Loan Chin Huei CH-T4C16",
-      "image": [
-        "https://noithatchinhuei.io.vn/wp-content/uploads/2026/06/Tu-quan-ao-4-canh-lua-kem-ke-trang-tri-nhua-Dai-Loan-Chin-Huei-CH-T4C16-mau-go-soi-600x687.webp",
-        "https://noithatchinhuei.io.vn/wp-content/uploads/2026/06/Tu-quan-ao-4-canh-lua-kem-ke-trang-tri-nhua-Dai-Loan-Chin-Huei-CH-T4C16-mau-trang-600x580.webp"
-      ],
-      "brand": {
-        "@type": "Brand",
-        "name": "Chin Huei"
-      },
-      "category": "Tủ quần áo nhựa"
-    },
-    {
-      "@type": "BreadcrumbList",
-      "itemListElement": [
-        {
-          "@type": "ListItem",
-          "position": 1,
-          "name": "KTS Cường Nguyễn",
-          "item": "https://noithatchinhuei.github.io/ktscuongnguyen.github.io/"
-        },
-        {
-          "@type": "ListItem",
-          "position": 2,
-          "name": "Dự án",
-          "item": "https://noithatchinhuei.github.io/ktscuongnguyen.github.io/du-an/"
-        },
-        {
-          "@type": "ListItem",
-          "position": 3,
-          "name": "Tủ quần áo 4 cánh lùa CH-T4C16",
-          "item": "{{ page.url | absolute_url }}"
-        }
-      ]
-    }
-  ]
-}
-</script>
 
 # Bàn giao tủ quần áo 4 cánh lùa CH-T4C16 cho anh Quang Hải và cô Thu Hồng ngày 7/8
 
 Ngày **7/8**, tôi ghi nhận hai công trình bàn giao nội thất cho hai gia đình tại Hà Nội. Cùng lựa chọn mẫu **tủ quần áo 4 cánh lùa kèm kệ trang trí nhựa Đài Loan Chin Huei CH-T4C16**, nhưng hai khách hàng sử dụng hai phiên bản màu khác nhau để phù hợp với không gian riêng.
 
 **Anh Quang Hải, 29 tuổi**, tại **Vinhomes Smart City, Tây Mỗ – cách xưởng khoảng 9km**, lựa chọn phiên bản **màu vân gỗ**. Trong khi đó, **cô Thu Hồng, 52 tuổi**, tại **Khu đô thị Ciputra, Bắc Từ Liêm – cách xưởng khoảng 7km**, lựa chọn phiên bản **màu trắng**.
-
-![Tủ quần áo 4 cánh lùa CH-T4C16 màu gỗ sồi](https://noithatchinhuei.io.vn/wp-content/uploads/2026/06/Tu-quan-ao-4-canh-lua-kem-ke-trang-tri-nhua-Dai-Loan-Chin-Huei-CH-T4C16-mau-go-soi-600x687.webp)
 
 ## Hai màu sắc, hai cách thể hiện không gian
 
@@ -90,8 +18,6 @@ Ngày **7/8**, tôi ghi nhận hai công trình bàn giao nội thất cho hai g
 Với căn hộ của anh Quang Hải, **màu vân gỗ** tạo cảm giác ấm áp và gần gũi hơn. Đây là lựa chọn phù hợp với những không gian phòng ngủ muốn duy trì chất liệu thị giác tự nhiên, đồng thời tạo sự liên kết với sàn và các món nội thất khác.
 
 Trong khi đó, phiên bản **màu trắng** của cô Thu Hồng mang lại cảm giác nhẹ và sạch hơn. Với những căn phòng có nhiều ánh sáng hoặc muốn tạo cảm giác rộng rãi, màu trắng giúp hệ tủ hòa vào tổng thể thay vì trở thành một mảng nội thất quá nặng.
-
-![Tủ quần áo 4 cánh lùa CH-T4C16 màu trắng](https://noithatchinhuei.io.vn/wp-content/uploads/2026/06/Tu-quan-ao-4-canh-lua-kem-ke-trang-tri-nhua-Dai-Loan-Chin-Huei-CH-T4C16-mau-trang-600x580.webp)
 
 ## Góc nhìn từ thiết kế kiến trúc
 
@@ -133,7 +59,7 @@ Cảm ơn **anh Quang Hải và cô Thu Hồng** đã tin tưởng lựa chọn 
 **Mã:** CH-T4C16  
 **Ngày bàn giao:** 07/08/2026
 
-### KTS Cường Nguyễn
+## KTS Cường Nguyễn
 
 **Ngõ 19 Hàm Nghi, phường Từ Liêm, Hà Nội**
 
@@ -144,3 +70,84 @@ Cảm ơn **anh Quang Hải và cô Thu Hồng** đã tin tưởng lựa chọn 
 👉 [Tham khảo tủ quần áo nhựa Chin Huei](https://noithatchinhuei.io.vn/tu-nhua-quan-ao/)
 
 Nếu anh/chị đang cần một hệ tủ quần áo phù hợp với diện tích, màu sắc và cách tổ chức nội thất của căn hộ, có thể liên hệ để được tư vấn phương án trước khi sản xuất.
+
+---
+
+<!-- JSON-LD Schema -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Article",
+      "@id": "https://noithatchinhuei.github.io/ktscuongnguyen.github.io/du-an/quang-hai-thu-hong-t4c16/#article",
+      "headline": "Bàn giao tủ quần áo 4 cánh lùa CH-T4C16 cho anh Quang Hải và cô Thu Hồng ngày 7/8",
+      "description": "KTS Cường Nguyễn ghi nhận hai công trình bàn giao tủ quần áo 4 cánh lùa CH-T4C16 cho anh Quang Hải tại Vinhomes Smart City và cô Thu Hồng tại Ciputra, Hà Nội.",
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://noithatchinhuei.github.io/ktscuongnguyen.github.io/du-an/quang-hai-thu-hong-t4c16/"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "KTS Cường Nguyễn",
+        "url": "https://ktscuongnguyen.github.io/"
+      },
+      "publisher": {
+        "@type": "Person",
+        "name": "KTS Cường Nguyễn",
+        "url": "https://noithatchinhuei.github.io/ktscuongnguyen.github.io/"
+      },
+      "datePublished": "2026-08-07",
+      "dateModified": "2026-08-07",
+      "inLanguage": "vi-VN",
+      "keywords": [
+        "tủ quần áo 4 cánh lùa",
+        "CH-T4C16",
+        "tủ nhựa Chin Huei",
+        "nội thất nhựa Đài Loan",
+        "KTS Cường Nguyễn",
+        "Vinhomes Smart City",
+        "Ciputra"
+      ],
+      "about": {
+        "@type": "Product",
+        "name": "Tủ quần áo 4 cánh lùa kèm kệ trang trí CH-T4C16",
+        "brand": {
+          "@type": "Brand",
+          "name": "Chin Huei"
+        },
+        "category": "Tủ quần áo nhựa"
+      }
+    },
+    {
+      "@type": "Person",
+      "@id": "https://ktscuongnguyen.github.io/#person",
+      "name": "KTS Cường Nguyễn",
+      "jobTitle": "Kiến trúc sư",
+      "url": "https://ktscuongnguyen.github.io/",
+      "sameAs": [
+        "https://www.instagram.com/ktscuongnguyen/",
+        "https://ktscuongnguyen.blogspot.com/"
+      ]
+    },
+    {
+      "@type": "ItemList",
+      "name": "Các công trình bàn giao trong ngày 07/08/2026",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Anh Quang Hải – Vinhomes Smart City",
+          "description": "Bàn giao tủ quần áo 4 cánh lùa CH-T4C16 phiên bản màu vân gỗ."
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Cô Thu Hồng – Khu đô thị Ciputra",
+          "description": "Bàn giao tủ quần áo 4 cánh lùa CH-T4C16 phiên bản màu trắng."
+        }
+      ]
+    }
+  ]
+}
+</script>
