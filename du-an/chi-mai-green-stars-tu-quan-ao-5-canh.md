@@ -18,6 +18,8 @@ Với công trình của chị Mai, phương án được lựa chọn là **t�
 
 *Hình ảnh thực tế mẫu tủ quần áo 5 cánh mở, 1 kệ và 6 ngăn kéo nhựa Đài Loan Chin Huei CH-T5C05.*
 
+*Hình ảnh thực tế mẫu tủ quần áo 5 cánh mở, 1 kệ và 6 ngăn kéo nhựa Đài Loan Chin Huei CH-T5C05.*
+
 👉 [Xem mẫu tủ quần áo 5 cánh nhựa Đài Loan Chin Huei](https://noithatchinhuei.io.vn/tu-quan-ao-5-canh-nhua-dai-loan-chin-huei/)
 
 ## Tổ chức một hệ tủ lớn nhưng vẫn gọn
