@@ -14,9 +14,11 @@ permalink: /du-an/chi-mai-green-stars-tu-quan-ao-5-canh/
 Trong thiết kế nội thất phòng ngủ, tôi luôn quan tâm đến việc cân bằng giữa **khả năng lưu trữ, tỷ lệ hình khối và sự thuận tiện khi sử dụng**. Một chiếc tủ lớn chưa chắc đã là phương án tốt nếu công năng bên trong không được tổ chức hợp lý.
 
 Với công trình của chị Mai, phương án được lựa chọn là **tủ quần áo 5 cánh nhựa Đài Loan Chin Huei**, hướng đến nhu cầu lưu trữ quần áo và đồ dùng cá nhân trong không gian căn hộ.
+
+
+
 ![Tủ quần áo 5 cánh mở 1 kệ 6 ngăn kéo nhựa Đài Loan Chin Huei CH-T5C05 tại Green Stars](https://noithatchinhuei.io.vn/wp-content/uploads/2026/06/Tu-quan-ao-5-canh-mo-1-ke-6-ngan-keo-nhua-Dai-Loan-Chin-Huei-tieu-chuan-CH-T5C05-600x620.webp)
 
-*Hình ảnh thực tế mẫu tủ quần áo 5 cánh mở, 1 kệ và 6 ngăn kéo nhựa Đài Loan Chin Huei CH-T5C05.*
 
 *Hình ảnh thực tế mẫu tủ quần áo 5 cánh mở, 1 kệ và 6 ngăn kéo nhựa Đài Loan Chin Huei CH-T5C05.*
 
