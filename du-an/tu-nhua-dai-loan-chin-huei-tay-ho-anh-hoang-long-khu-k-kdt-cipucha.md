@@ -8,7 +8,7 @@ Tiếp nối công trình [bàn giao 4 cái tủ nhựa 3 cánh Đài Loan Chin-
 
 Chủ nhân của công trình trưa Chủ Nhật là **anh Trịnh Hoàng Long** (42 tuổi). Chia sẻ với đội ngũ thi công, anh Long cho biết chiếc tủ gỗ công nghiệp cũ trong phòng ngủ gia đình dù mua giá khá cao nhưng sau một thời gian sử dụng đã bị ẩm mốc và mối mọt tấn công gặm nhấm, mục nát phần đế tủ. Quá ngán ngẩm với tình trạng mối mọt bám dính đồ đạc, anh quyết định "chuyển sang thử" dòng **tủ nhựa Đài Loan Chin-Huei cao cấp** để giải quyết triệt để nỗi lo này.
 
-![Cổng chào và cảnh quan Khu đô thị Ciputra Nam Thăng Long](ttps://lh3.googleusercontent.com/_2sj2ciho3Ywrs_Ng17wusGWgWrLxKJ0Z48bfckzqqB6X8ywh8zrdr8Oudy6CDVILCf3kSe7fnSm8elUQA=w1905)
+![Cổng chào và cảnh quan Khu đô thị Ciputra Nam Thăng Long](https://lh3.googleusercontent.com/_2sj2ciho3Ywrs_Ng17wusGWgWrLxKJ0Z48bfckzqqB6X8ywh8zrdr8Oudy6CDVILCf3kSe7fnSm8elUQA=w1905)
 
 Dù khoảng cách từ xưởng Hàm Nghi sang Tây Hồ chỉ khoảng 5km, chuyến giao hàng trưa nay vẫn để lại kỉ niệm đáng nhớ:
 
