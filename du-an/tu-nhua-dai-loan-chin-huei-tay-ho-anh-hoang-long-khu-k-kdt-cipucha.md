@@ -7,8 +7,8 @@ Tiếp nối công trình [bàn giao 4 cái tủ nhựa 3 cánh Đài Loan Chin-
 ## 1. Quyết định thay thế tủ gỗ mủn vì mối mọt & Hành trình "lạc lối" giữa khu đô thị Ciputra
 
 Chủ nhân của công trình trưa Chủ Nhật là **anh Trịnh Hoàng Long** (42 tuổi). Chia sẻ với đội ngũ thi công, anh Long cho biết chiếc tủ gỗ công nghiệp cũ trong phòng ngủ gia đình dù mua giá khá cao nhưng sau một thời gian sử dụng đã bị ẩm mốc và mối mọt tấn công gặm nhấm, mục nát phần đế tủ. Quá ngán ngẩm với tình trạng mối mọt bám dính đồ đạc, anh quyết định "chuyển sang thử" dòng **tủ nhựa Đài Loan Chin-Huei cao cấp** để giải quyết triệt để nỗi lo này.
+![Tủ quần áo nhựa Đài Loan Chin-Huei 5 cánh cao cấp nhà anh Trịnh Hoàng Long](https://lh3.googleusercontent.com/_2sj2ciho3Ywrs_Ng17wusGWgWrLxKJ0Z48bfckzqqB6X8ywh8zrdr8Oudy6CDVILCf3kSe7fnSm8elUQA=w1905)
 
-![Cổng chào và cảnh quan Khu đô thị Ciputra Nam Thăng Long](https://lh3.googleusercontent.com/T22zVUIhmSxod8FKflRU96tKjLsLiZkwkQl0ym6-7KjxIXswoPL5jcZnZ4qWD1HckmxMLXtHAIgH89WvqA=w1905)
 
 Dù khoảng cách từ xưởng Hàm Nghi sang Tây Hồ chỉ khoảng 5km, chuyến giao hàng trưa nay vẫn để lại kỉ niệm đáng nhớ:
 
@@ -19,7 +19,7 @@ Dù khoảng cách từ xưởng Hàm Nghi sang Tây Hồ chỉ khoảng 5km, ch
 
 ## 2. Đánh giá thiết kế & Công năng Tủ quần áo nhựa Chin-Huei 5 cánh màu ghi xám phối khung đen
 
-![Tủ quần áo nhựa Đài Loan Chin-Huei 5 cánh cao cấp nhà anh Trịnh Hoàng Long](https://lh3.googleusercontent.com/_2sj2ciho3Ywrs_Ng17wusGWgWrLxKJ0Z48bfckzqqB6X8ywh8zrdr8Oudy6CDVILCf3kSe7fnSm8elUQA=w1905)
+
 
 Chiếc tủ 5 cánh kịch trần được may đo vuông vắn, tôn lên vẻ hiện đại và đẳng cấp cho không gian nội thất Ciputra:
 
@@ -35,6 +35,7 @@ Chiếc tủ 5 cánh kịch trần được may đo vuông vắn, tôn lên vẻ
 ---
 
 ## 3. Cảm nhận của anh Trịnh Hoàng Long sau khi nghiệm thu
+![Cổng chào và cảnh quan Khu đô thị Ciputra Nam Thăng Long](https://lh3.googleusercontent.com/T22zVUIhmSxod8FKflRU96tKjLsLiZkwkQl0ym6-7KjxIXswoPL5jcZnZ4qWD1HckmxMLXtHAIgH89WvqA=w1905)
 
 Trực tiếp kiểm tra độ phẳng mượt của bề mặt nhựa và thử đóng mở các hệ cánh tủ, anh Trịnh Hoàng Long phấn khởi chia sẻ:
 
