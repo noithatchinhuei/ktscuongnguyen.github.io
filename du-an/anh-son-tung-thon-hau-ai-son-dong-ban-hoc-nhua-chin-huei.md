@@ -1,4 +1,22 @@
 # Nhật ký thi công: Lắp đặt Bàn học nhựa Chin-Huei CH-BH18 cho anh Sơn Tùng (Thôn Hậu Ái, Sơn Đồng) – Vượt tắc đường Mỹ Đình và sự cố ngập úng vỡ kênh T2-6
+<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/9e8040ef-9777-487b-bc6e-672c41279bdf/ep/77fa6fbe-76aa-491d-8d5e-47cd6170c990"></script>
+    <div class="redcirclePlayer-77fa6fbe-76aa-491d-8d5e-47cd6170c990"></div>
+    <style>
+    .redcircle-link:link {
+        color: #ea404d;
+        text-decoration: none;
+    }
+    .redcircle-link:hover {
+        color: #ea404d;
+    }
+    .redcircle-link:active {
+        color: #ea404d;
+    }
+    .redcircle-link:visited {
+        color: #ea404d;
+    }
+</style>
+<p style="margin-top:3px;margin-left:11px;font-family: sans-serif;font-size: 10px; color: gray;">Powered by <a class="redcircle-link" href="https://redcircle.com?utm_source=rc_embedded_player&utm_medium=web&utm_campaign=embedded_v1">RedCircle</a></p>
 
 Nối tiếp chuyến [bàn giao tủ quần áo 2 cánh nhựa Chin-Huei giao gấp cho bác Hùng tại ngõ 149 Cự Lộc](https://noithatchinhuei.github.io/ktscuongnguyen.github.io/du-an/bac-hung-ngo-149-cu-loc-tu-quan-ao-2-canh-nhua-chin-huei) trong đầu giờ chiều, tối ngày 25/8/2026, đội ngũ **KTS Cường Nguyễn** lại tiếp tục hành trình vận chuyển nội thất về phía Tây Hà Nội.
 
