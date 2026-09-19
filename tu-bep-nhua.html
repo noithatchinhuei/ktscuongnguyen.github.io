@@ -1,0 +1,62 @@
+---
+layout: default
+title: "Tủ Bếp Nhựa Đài Loan Chin Huei Cao Cấp | Báo Giá & Mẫu Đẹp"
+description: "Tổng hợp các công trình thiết kế và thi công tủ bếp nhựa Đài Loan Chin Huei cao cấp (chữ L, chữ I, vạt góc). Chống nước 100%, chống mối mọt, không cong vênh."
+---
+
+<!-- Meta SEO & Keywords -->
+<meta name="keywords" content="tủ bếp nhựa Đài Loan, tủ bếp nhựa Chin Huei, tủ bếp nhựa Đài Loan cao cấp, tủ bếp nhựa chữ L, tủ bếp nhựa chống nước, tủ bếp nhựa Chin Huei 2.0 plus">
+
+<div style="max-width: 1000px; margin: 0 auto; padding: 20px 10px;">
+
+  <!-- Tiêu đề & Lời dẫn chuẩn SEO chứa từ khóa -->
+  <header style="text-align: center; margin-bottom: 30px;">
+    <h1 style="color: #ff9900; font-size: 28px; text-transform: uppercase; margin-bottom: 10px;">
+      Bộ Sưu Tập Tủ Bếp Nhựa Đài Loan Chin Huei Cao Cấp
+    </h1>
+    <p style="color: #ccc; font-size: 15px; line-height: 1.6; max-width: 800px; margin: 0 auto;">
+      Tổng hợp các dự án thiết kế và thi công thực tế hệ <strong>tủ bếp nhựa Đài Loan</strong> chính hãng Chin Huei (dòng nhựa sinh thái Chin Huei 2.0 Plus). Giải pháp không gian bếp hiện đại, chống ẩm mốc, <em>chống nước tuyệt đối 100%</em>, kháng mối mọt và không cong vênh dưới thời tiết nồm ẩm tại Hà Nội.
+    </p>
+
+    <!-- Sub-menu lọc nhanh loại tủ bếp -->
+    <div style="margin-top: 15px; display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; font-size: 13px;">
+      <a href="https://noithatchinhuei.io.vn/tu-bep-nhua-dai-loan-chin-huei-chu-l/" style="color: #4a90e2; background: #222; padding: 6px 12px; border-radius: 15px; text-decoration: none; border: 1px solid #333;">Tủ bếp chữ L Chin Huei</a>
+      <a href="https://noithatchinhuei.io.vn/tu-bep-nhua-dai-loan-chin-huei-chu-i/" style="color: #4a90e2; background: #222; padding: 6px 12px; border-radius: 15px; text-decoration: none; border: 1px solid #333;">Tủ bếp chữ I Chin Huei</a>
+    </div>
+  </header>
+
+  <!-- Lưới hiển thị bài viết tự động -->
+  <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 20px;">
+    {% for post in site.posts %}
+      {% if post.categories contains 'du-an' or post.url contains 'tu-bep' or post.title contains 'Tủ Bếp' %}
+        {% if post.title contains 'Tủ Bếp' or post.url contains 'tu-bep' %}
+          <article style="background: #1e1e1e; border-radius: 8px; overflow: hidden; border: 1px solid #333; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
+            <a href="{{ post.url }}">
+              <img src="{{ post.image }}" alt="{{ post.title }}" style="width: 100%; height: 210px; object-fit: cover; display: block;">
+            </a>
+            <div style="padding: 15px;">
+              <h2 style="font-size: 16px; margin: 0 0 10px 0; line-height: 1.4;">
+                <a href="{{ post.url }}" style="color: #fff; text-decoration: none;">{{ post.title }}</a>
+              </h2>
+              <p style="font-size: 13px; color: #aaa; margin: 0; line-height: 1.5;">
+                {{ post.description | default: post.content | strip_html | truncate: 100 }}
+              </p>
+              <div style="margin-top: 12px; font-size: 12px; color: #ff9900; font-weight: bold;">
+                Xem chi tiết dự án bếp →
+              </div>
+            </div>
+          </article>
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+  </div>
+
+  <!-- Đoạn văn bản SEO bổ sung độ phủ từ khóa ở chân trang -->
+  <section style="margin-top: 50px; padding: 20px; background-color: #181818; border-radius: 8px; border-left: 4px solid #ff9900;">
+    <h3 style="color: #ff9900; font-size: 18px; margin-top: 0;">Vì Sao Nên Làm Tủ Bếp Nhựa Đài Loan Chin Huei?</h3>
+    <p style="font-size: 14px; color: #ccc; line-height: 1.6;">
+      Không gian bếp là nơi thường xuyên tiếp xúc với nước, nhiệt độ và dầu mỡ. Việc sử dụng <strong>tủ bếp nhựa Đài Loan</strong> cao cấp Chin Huei giúp loại bỏ hoàn toàn tình trạng xệ cánh, mối mọt xông hay mục nở tấm nhựa thường thấy ở gỗ công nghiệp. KTS Cường Nguyễn hỗ trợ tư vấn thiết kế 3D chuẩn phong thủy, tích hợp ô thờ Ông Táo, khay đĩa nâng hạ và góc xéo vạt góc thông minh.
+    </p>
+  </section>
+
+</div>
