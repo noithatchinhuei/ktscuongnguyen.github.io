@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }}</title>
+    <meta name="description" content="{{ page.description }}">
+</head>
+<body>
+
+    <!-- Tự động gọi Header & Menu chung -->
+    {% include header.html %}
+
+    <!-- Khung chứa nội dung bài viết -->
+    <main class="post-content" style="max-width: 900px; margin: 20px auto; padding: 20px; background: #fff; border-radius: 8px;">
+        {{ content }}
+    </main>
+
+</body>
+</html>
