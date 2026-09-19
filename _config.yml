@@ -1,13 +1,20 @@
-title: KTS Cường Nguyễn
-description: Thiết kế nội thất nhựa Đài Loan Chin Huei tại Hà Nội
-theme: minima
+<header style="text-align: center; padding: 20px 10px; background-color: #121212;">
+  <!-- Logo tròn -->
+  <div style="margin-bottom: 15px;">
+    <a href="/">
+      <img src="https://noithatchinhuei.io.vn/wp-content/uploads/logo.png" alt="KTS Cường Nguyễn - Nội thất Chin Huei" style="width: 100px; height: 100px; border-radius: 50%; border: 2px solid #ff9900; object-fit: cover;">
+    </a>
+  </div>
 
-url: "https://noithatchinhuei.github.io"
-baseurl: "/ktscuongnguyen.github.io"
-
-header_pages:
-  - index.md
-  - gioi-thieu.md
-  - du-an-tong-hop.md
-  - goc-nhin-kien-truc.md
-  - lien-he.md
+  <!-- Menu căn giữa -->
+  <nav style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; font-weight: bold; font-size: 15px; text-transform: uppercase;">
+    <a href="/" style="color: #4a90e2; text-decoration: none;">TRANG CHỦ</a>
+    <a href="https://noithatchinhuei.io.vn/tu-nhua-quan-ao/" style="color: #4a90e2; text-decoration: none;">TỦ QUẦN ÁO</a>
+    <a href="https://noithatchinhuei.io.vn/tu-bep-nhua-dai-loan-chin-huei-chu-l/" style="color: #ff9900; text-decoration: none;">TỦ BẾP</a>
+    <a href="https://noithatchinhuei.io.vn/ban-hoc-nhua-dai-loan-chin-huei/" style="color: #4a90e2; text-decoration: none;">BÀN HỌC</a>
+    <a href="/du-an-tong-hop.html" style="color: #4a90e2; text-decoration: none;">DỰ ÁN TỔNG HỢP</a>
+    <a href="/goc-nhin-kien-truc.html" style="color: #4a90e2; text-decoration: none;">GÓC NHÌN KIẾN TRÚC</a>
+    <a href="/gioi-thieu.html" style="color: #4a90e2; text-decoration: none;">TƯ VẤN NỘI THẤT</a>
+    <a href="/lien-he.html" style="color: #4a90e2; text-decoration: none;">LIÊN HỆ</a>
+  </nav>
+</header>
