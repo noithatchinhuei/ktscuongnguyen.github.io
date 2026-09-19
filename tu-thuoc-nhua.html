@@ -1,0 +1,54 @@
+---
+layout: default
+title: "Tủ Thuốc Nhựa Đài Loan Chin Huei | Tủ Y Tế An Toàn, Chống Ẩm"
+description: "Tổng hợp các mẫu tủ thuốc nhựa Đài Loan, tủ đựng thuốc y tế Chin Huei treo tường gia đình, phòng khám. Chống ẩm mốc 100%, có khóa an toàn cho trẻ nhỏ."
+---
+
+<!-- Meta SEO & Keywords -->
+<meta name="keywords" content="tủ thuốc nhựa Đài Loan, tủ thuốc nhựa Chin Huei, tủ y tế nhựa treo tường, tủ thuốc gia đình nhựa, tủ đựng thuốc phòng khám">
+
+<div style="max-width: 1000px; margin: 0 auto; padding: 20px 10px;">
+
+  <!-- Tiêu đề & Lời dẫn chuẩn SEO chứa từ khóa -->
+  <header style="text-align: center; margin-bottom: 30px;">
+    <h1 style="color: #ff9900; font-size: 28px; text-transform: uppercase; margin-bottom: 10px;">
+      Bộ Sưu Tập Tủ Thuốc Nhựa Đài Loan Chin Huei
+    </h1>
+    <p style="color: #ccc; font-size: 15px; line-height: 1.6; max-width: 800px; margin: 0 auto;">
+      Tổng hợp các mẫu thiết kế và thi công <strong>tủ thuốc nhựa Đài Loan</strong> chính hãng Chin Huei. Giải pháp lưu trữ thuốc và dụng cụ y tế gia đình, phòng khám an toàn, ngăn nắp, cam kết <em>chống ẩm mốc 100%, chống nước và mối mọt tuyệt đối</em>.
+    </p>
+  </header>
+
+  <!-- Lưới hiển thị bài viết/sản phẩm tự động -->
+  <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 20px;">
+    {% for post in site.posts %}
+      {% if post.categories contains 'tu-thuoc' or post.url contains 'tu-thuoc' or post.title contains 'Tủ Thuốc' or post.title contains 'Tủ Y Tế' %}
+        <article style="background: #1e1e1e; border-radius: 8px; overflow: hidden; border: 1px solid #333; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
+          <a href="{{ post.url }}">
+            <img src="{{ post.image }}" alt="{{ post.title }}" style="width: 100%; height: 210px; object-fit: cover; display: block;">
+          </a>
+          <div style="padding: 15px;">
+            <h2 style="font-size: 16px; margin: 0 0 10px 0; line-height: 1.4;">
+              <a href="{{ post.url }}" style="color: #fff; text-decoration: none;">{{ post.title }}</a>
+            </h2>
+            <p style="font-size: 13px; color: #aaa; margin: 0; line-height: 1.5;">
+              {{ post.description | default: post.content | strip_html | truncate: 100 }}
+            </p>
+            <div style="margin-top: 12px; font-size: 12px; color: #ff9900; font-weight: bold;">
+              Xem chi tiết mẫu tủ thuốc →
+            </div>
+          </div>
+        </article>
+      {% endif %}
+    {% endfor %}
+  </div>
+
+  <!-- Đoạn văn bản SEO bổ sung độ phủ từ khóa ở chân trang -->
+  <section style="margin-top: 50px; padding: 20px; background-color: #181818; border-radius: 8px; border-left: 4px solid #ff9900;">
+    <h3 style="color: #ff9900; font-size: 18px; margin-top: 0;">Ưu Điểm Của Tủ Thuốc Nhựa Đài Loan Chin Huei</h3>
+    <p style="font-size: 14px; color: #ccc; line-height: 1.6;">
+      Thuốc và các vật tư y tế cần được bảo quản ở nơi khô ráo, tránh ẩm mốc để giữ nguyên tác dụng. Sản phẩm <strong>tủ thuốc nhựa Đài Loan</strong> do KTS Cường Nguyễn thiết kế sử dụng chất liệu nhựa sinh thái Chin Huei chống ẩm mốc, kháng nước hoàn toàn. Tủ tích hợp cửa kính dễ quan sát, phân chia nhiều ô tầng tiện lợi và có trang bị khóa an toàn tránh xa tầm tay trẻ nhỏ.
+    </p>
+  </section>
+
+</div>
