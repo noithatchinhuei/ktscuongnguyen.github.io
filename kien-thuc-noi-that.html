@@ -1,0 +1,54 @@
+---
+layout: default
+title: "Kiến Thức Nội Thất Nhựa Đài Loan Chin Huei | Kinh Nghiệm & Tư Vấn"
+description: "Tổng hợp bài viết chia sẻ kinh nghiệm chọn mua, bảo quản và phân biệt nội thất nhựa Đài Loan Chin Huei chính hãng. Tư vấn chuyên sâu từ KTS Cường Nguyễn."
+---
+
+<!-- Meta SEO & Keywords -->
+<meta name="keywords" content="kiến thức nội thất, kinh nghiệm làm tủ nhựa đài loan, phân biệt nhựa chin huei chính hãng, nhựa chin huei có tốt không, bảo quản tủ nhựa đài loan">
+
+<div style="max-width: 1000px; margin: 0 auto; padding: 20px 10px;">
+
+  <!-- Tiêu đề & Lời dẫn chuẩn SEO chứa từ khóa -->
+  <header style="text-align: center; margin-bottom: 30px;">
+    <h1 style="color: #ff9900; font-size: 28px; text-transform: uppercase; margin-bottom: 10px;">
+      Góc Kiến Thức & Kinh Nghiệm Nội Thất Nhựa Chin Huei
+    </h1>
+    <p style="color: #ccc; font-size: 15px; line-height: 1.6; max-width: 800px; margin: 0 auto;">
+      Chuyên mục chia sẻ <strong>kiến thức nội thất</strong> chuyên sâu, hướng dẫn phân biệt vật liệu nhựa Chin Huei chính hãng, kinh nghiệm thiết kế phòng ngủ, bếp ăn và giải pháp tối ưu không gian sống cùng KTS Cường Nguyễn.
+    </p>
+  </header>
+
+  <!-- Lưới hiển thị bài viết kinh nghiệm tự động -->
+  <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 20px;">
+    {% for post in site.posts %}
+      {% if post.categories contains 'kien-thuc' or post.url contains 'kien-thuc' or post.url contains 'kinh-nghiem' or post.title contains 'Kiến Thức' or post.title contains 'Có Tốt Không' or post.title contains 'Kinh Nghiệm' %}
+        <article style="background: #1e1e1e; border-radius: 8px; overflow: hidden; border: 1px solid #333; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
+          <a href="{{ post.url }}">
+            <img src="{{ post.image }}" alt="{{ post.title }}" style="width: 100%; height: 210px; object-fit: cover; display: block;">
+          </a>
+          <div style="padding: 15px;">
+            <h2 style="font-size: 16px; margin: 0 0 10px 0; line-height: 1.4;">
+              <a href="{{ post.url }}" style="color: #fff; text-decoration: none;">{{ post.title }}</a>
+            </h2>
+            <p style="font-size: 13px; color: #aaa; margin: 0; line-height: 1.5;">
+              {{ post.description | default: post.content | strip_html | truncate: 100 }}
+            </p>
+            <div style="margin-top: 12px; font-size: 12px; color: #ff9900; font-weight: bold;">
+              Đọc bài viết ngay →
+            </div>
+          </div>
+        </article>
+      {% endif %}
+    {% endfor %}
+  </div>
+
+  <!-- Đoạn văn bản SEO bổ sung độ phủ từ khóa ở chân trang -->
+  <section style="margin-top: 50px; padding: 20px; background-color: #181818; border-radius: 8px; border-left: 4px solid #ff9900;">
+    <h3 style="color: #ff9900; font-size: 18px; margin-top: 0;">Tại Sao Cần Tìm Hiểu Kiến Thức Nội Thất Nhựa Đúng Cách?</h3>
+    <p style="font-size: 14px; color: #ccc; line-height: 1.6;">
+      Thị trường nội thất nhựa Đài Loan hiện nay rất đa dạng với nhiều dòng tấm nhựa khác nhau. Việc nắm rõ <strong>kiến thức nội thất</strong> và đặc tính kĩ thuật của tấm nhựa sinh thái Chin Huei (mật độ gân nhựa, công nghệ in màu màng PVC, độ an toàn không chưa Pb/Phthalates) sẽ giúp quý khách hàng đưa ra quyết định đầu tư đúng đắn, đảm bảo độ bền công trình lên tới trên 20 năm.
+    </p>
+  </section>
+
+</div>
