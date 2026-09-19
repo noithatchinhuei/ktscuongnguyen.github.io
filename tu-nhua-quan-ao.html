@@ -1,0 +1,54 @@
+---
+layout: default
+title: "Tủ Nhựa Quần Áo Đài Loan Chin Huei Cao Cấp | Báo Giá & Mẫu Đẹp"
+description: "Tổng hợp các công trình thiết kế và thi công tủ nhựa quần áo Đài Loan Chin Huei cao cấp 2.0 Plus. Chống ẩm mốc, chống mối mọt 100%, bảo hành uy tín tại Hà Nội."
+---
+
+<!-- Meta SEO & Keywords -->
+<meta name="keywords" content="tủ nhựa quần áo Đài Loan, tủ nhựa quần áo Chin Huei, tủ quần áo nhựa Đài Loan cao cấp, tủ nhựa Đài Loan cánh lùa, tủ nhựa quần áo âm tường">
+
+<div style="max-width: 1000px; margin: 0 auto; padding: 20px 10px;">
+
+  <!-- Tiêu đề & Lời dẫn chuẩn SEO chứa từ khóa -->
+  <header style="text-align: center; margin-bottom: 30px;">
+    <h1 style="color: #ff9900; font-size: 28px; text-transform: uppercase; margin-bottom: 10px;">
+      Bộ Sưu Tập Tủ Nhựa Quần Áo Đài Loan Chin Huei Cao Cấp
+    </h1>
+    <p style="color: #ccc; font-size: 15px; line-height: 1.6; max-width: 800px; margin: 0 auto;">
+      Tổng hợp các dự án thực tế thi công <strong>tủ nhựa quần áo Đài Loan</strong> chính hãng Chin Huei (dòng nhựa sinh thái Chin Huei 2.0 Plus). Giải pháp lưu trữ hiện đại, tối ưu không gian, cam kết <em>chống ẩm mốc, chống mối mọt 100%</em> và không cong vênh dưới thời tiết nồm ẩm tại Hà Nội.
+    </p>
+  </header>
+
+  <!-- Lưới hiển thị bài viết tự động -->
+  <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 20px;">
+    {% for post in site.posts %}
+      {% if post.categories contains 'tu-quan-ao' or post.url contains 'tu-quan-ao' or post.title contains 'Tủ Quần Áo' %}
+        <article style="background: #1e1e1e; border-radius: 8px; overflow: hidden; border: 1px solid #333; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
+          <a href="{{ post.url }}">
+            <img src="{{ post.image }}" alt="{{ post.title }}" style="width: 100%; height: 210px; object-fit: cover; display: block;">
+          </a>
+          <div style="padding: 15px;">
+            <h2 style="font-size: 16px; margin: 0 0 10px 0; line-height: 1.4;">
+              <a href="{{ post.url }}" style="color: #fff; text-decoration: none;">{{ post.title }}</a>
+            </h2>
+            <p style="font-size: 13px; color: #aaa; margin: 0; line-height: 1.5;">
+              {{ post.description | default: post.content | strip_html | truncate: 100 }}
+            </p>
+            <div style="margin-top: 12px; font-size: 12px; color: #ff9900; font-weight: bold;">
+              Xem chi tiết công trình →
+            </div>
+          </div>
+        </article>
+      {% endif %}
+    {% endfor %}
+  </div>
+
+  <!-- Đoạn văn bản SEO bổ sung độ phủ từ khóa ở chân trang -->
+  <section style="margin-top: 50px; padding: 20px; background-color: #181818; border-radius: 8px; border-left: 4px solid #ff9900;">
+    <h3 style="color: #ff9900; font-size: 18px; margin-top: 0;">Ưu Điểm Vượt Trội Của Tủ Nhựa Quần Áo Đài Loan Chin Huei</h3>
+    <p style="font-size: 14px; color: #ccc; line-height: 1.6;">
+      Các dòng <strong>tủ nhựa quần áo Đài Loan</strong> do KTS Cường Nguyễn thiết kế sử dụng tấm nhựa Chin Huei nguyên sinh kết cấu lõi gân mật độ cao. Sản phẩm không chứa hóa chất độc hại, độ bền lên tới 20 năm. Dù bạn cần mẫu <em>tủ nhựa quần áo Đài Loan cánh lùa</em>, tủ kịch trần hay tủ âm tường, hệ thống xưởng Chin Huei đều đo đạc và thi công chuẩn xác theo yêu cầu.
+    </p>
+  </section>
+
+</div>
