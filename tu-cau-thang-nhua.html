@@ -1,0 +1,54 @@
+---
+layout: default
+title: "Tủ Cầu Thang Nhựa Đài Loan Chin Huei | Tối Ưu Gầm Cầu Thang"
+description: "Tổng hợp các mẫu tủ gầm cầu thang nhựa Đài Loan, tủ cầu thang nhựa Chin Huei cao cấp. Thiết kế đo đạc chuẩn theo kích thước, chống ẩm mốc 100%."
+---
+
+<!-- Meta SEO & Keywords -->
+<meta name="keywords" content="tủ cầu thang nhựa Đài Loan, tủ gầm cầu thang nhựa, tủ cầu thang nhựa Chin Huei, tủ trang trí gầm cầu thang nhựa, tủ gầm cầu thang chống ẩm mốc">
+
+<div style="max-width: 1000px; margin: 0 auto; padding: 20px 10px;">
+
+  <!-- Tiêu đề & Lời dẫn chuẩn SEO chứa từ khóa -->
+  <header style="text-align: center; margin-bottom: 30px;">
+    <h1 style="color: #ff9900; font-size: 28px; text-transform: uppercase; margin-bottom: 10px;">
+      Bộ Sưu Tập Tủ Cầu Thang Nhựa Đài Loan Chin Huei
+    </h1>
+    <p style="color: #ccc; font-size: 15px; line-height: 1.6; max-width: 800px; margin: 0 auto;">
+      Tổng hợp các mẫu thiết kế và thi công <strong>tủ cầu thang nhựa Đài Loan</strong> (tủ gầm cầu thang) chính hãng Chin Huei. Biến góc chết dưới gầm cầu thang thành góc lưu trữ và trang trí sang trọng, cam kết <em>chống ẩm mốc, chống mối mọt 100%</em>.
+    </p>
+  </header>
+
+  <!-- Lưới hiển thị bài viết/sản phẩm tự động -->
+  <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 20px;">
+    {% for post in site.posts %}
+      {% if post.categories contains 'tu-cau-thang' or post.url contains 'tu-cau-thang' or post.title contains 'Tủ Cầu Thang' or post.title contains 'Gầm Cầu Thang' %}
+        <article style="background: #1e1e1e; border-radius: 8px; overflow: hidden; border: 1px solid #333; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
+          <a href="{{ post.url }}">
+            <img src="{{ post.image }}" alt="{{ post.title }}" style="width: 100%; height: 210px; object-fit: cover; display: block;">
+          </a>
+          <div style="padding: 15px;">
+            <h2 style="font-size: 16px; margin: 0 0 10px 0; line-height: 1.4;">
+              <a href="{{ post.url }}" style="color: #fff; text-decoration: none;">{{ post.title }}</a>
+            </h2>
+            <p style="font-size: 13px; color: #aaa; margin: 0; line-height: 1.5;">
+              {{ post.description | default: post.content | strip_html | truncate: 100 }}
+            </p>
+            <div style="margin-top: 12px; font-size: 12px; color: #ff9900; font-weight: bold;">
+              Xem chi tiết mẫu tủ cầu thang →
+            </div>
+          </div>
+        </article>
+      {% endif %}
+    {% endfor %}
+  </div>
+
+  <!-- Đoạn văn bản SEO bổ sung độ phủ từ khóa ở chân trang -->
+  <section style="margin-top: 50px; padding: 20px; background-color: #181818; border-radius: 8px; border-left: 4px solid #ff9900;">
+    <h3 style="color: #ff9900; font-size: 18px; margin-top: 0;">Giải Pháp Tủ Gầm Cầu Thang Nhựa Đài Loan Chin Huei</h3>
+    <p style="font-size: 14px; color: #ccc; line-height: 1.6;">
+      Gầm cầu thang là khu vực thường xuyên bị ẩm thấp và hạn chế ánh sáng. Thi công <strong>tủ cầu thang nhựa Đài Loan</strong> do KTS Cường Nguyễn thực hiện giúp tận dụng tối đa diện tích làm tủ rượu, tủ tivi hoặc kệ trang trí phòng khách. Chất liệu nhựa Chin Huei chống ẩm mốc tuyệt đối, không lo mối mọt tấn công, mang lại vẻ đẹp hiện đại và tinh tế cho ngôi nhà.
+    </p>
+  </section>
+
+</div>
