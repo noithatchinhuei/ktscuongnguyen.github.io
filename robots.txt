@@ -1,0 +1,9 @@
+# Chặn/Cho phép Bot quét dữ liệu
+User-agent: *
+Allow: /
+Disallow: /assets/
+Disallow: /_includes/
+Disallow: /_layouts/
+
+# Đường dẫn trỏ tới Sitemap giúp Google Index nhanh
+Sitemap: https://ktscuongnguyen.io.vn/sitemap.xml
