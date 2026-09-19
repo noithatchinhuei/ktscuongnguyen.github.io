@@ -1,0 +1,54 @@
+---
+layout: default
+title: "Bàn Làm Việc Nhựa Đài Loan Chin Huei | Mẫu Đẹp, Bền Bỉ"
+description: "Tổng hợp các mẫu bàn làm việc nhựa Đài Loan, bàn làm việc nhựa Chin Huei cao cấp. Thiết kế hiện đại, chống ẩm mốc, mối mọt 100%, tích hợp hộc tủ tiện lợi."
+---
+
+<!-- Meta SEO & Keywords -->
+<meta name="keywords" content="bàn làm việc nhựa Đài Loan, bàn làm việc nhựa Chin Huei, bàn làm việc nhựa cao cấp, bàn làm việc văn phòng nhựa, bàn làm việc nhựa tại nhà">
+
+<div style="max-width: 1000px; margin: 0 auto; padding: 20px 10px;">
+
+  <!-- Tiêu đề & Lời dẫn chuẩn SEO chứa từ khóa -->
+  <header style="text-align: center; margin-bottom: 30px;">
+    <h1 style="color: #ff9900; font-size: 28px; text-transform: uppercase; margin-bottom: 10px;">
+      Bộ Sưu Tập Bàn Làm Việc Nhựa Đài Loan Chin Huei
+    </h1>
+    <p style="color: #ccc; font-size: 15px; line-height: 1.6; max-width: 800px; margin: 0 auto;">
+      Tổng hợp các mẫu thiết kế và thi công <strong>bàn làm việc nhựa Đài Loan</strong> chính hãng Chin Huei. Tối ưu không gian làm việc tại nhà và văn phòng, chịu lực tốt, cam kết <em>chống ẩm mốc, chống mối mọt 100%</em> và không lo cong vênh.
+    </p>
+  </header>
+
+  <!-- Lưới hiển thị bài viết/sản phẩm tự động -->
+  <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 20px;">
+    {% for post in site.posts %}
+      {% if post.categories contains 'ban-lam-viec' or post.url contains 'ban-lam-viec' or post.title contains 'Bàn Làm Việc' %}
+        <article style="background: #1e1e1e; border-radius: 8px; overflow: hidden; border: 1px solid #333; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
+          <a href="{{ post.url }}">
+            <img src="{{ post.image }}" alt="{{ post.title }}" style="width: 100%; height: 210px; object-fit: cover; display: block;">
+          </a>
+          <div style="padding: 15px;">
+            <h2 style="font-size: 16px; margin: 0 0 10px 0; line-height: 1.4;">
+              <a href="{{ post.url }}" style="color: #fff; text-decoration: none;">{{ post.title }}</a>
+            </h2>
+            <p style="font-size: 13px; color: #aaa; margin: 0; line-height: 1.5;">
+              {{ post.description | default: post.content | strip_html | truncate: 100 }}
+            </p>
+            <div style="margin-top: 12px; font-size: 12px; color: #ff9900; font-weight: bold;">
+              Xem chi tiết mẫu bàn làm việc →
+            </div>
+          </div>
+        </article>
+      {% endif %}
+    {% endfor %}
+  </div>
+
+  <!-- Đoạn văn bản SEO bổ sung độ phủ từ khóa ở chân trang -->
+  <section style="margin-top: 50px; padding: 20px; background-color: #181818; border-radius: 8px; border-left: 4px solid #ff9900;">
+    <h3 style="color: #ff9900; font-size: 18px; margin-top: 0;">Ưu Điểm Của Bàn Làm Việc Nhựa Đài Loan Chin Huei</h3>
+    <p style="font-size: 14px; color: #ccc; line-height: 1.6;">
+      Các sản phẩm <strong>bàn làm việc nhựa Đài Loan</strong> do KTS Cường Nguyễn thiết kế được thi công từ tấm nhựa sinh thái Chin Huei kết cấu gân đôi chịu tải cao. Bề mặt dễ lau chùi, tích hợp hộc kéo khóa an toàn, giá sách đi kèm tiện lợi, phù hợp cho cả góc làm việc cá nhân lẫn không gian văn phòng hiện đại.
+    </p>
+  </section>
+
+</div>
