@@ -9,7 +9,7 @@ categories: du-an
 
 <h2>1. Tạm biệt làng Tân Mỹ với túi bún vảy ốc trưa 27/8</h2>
 
-<p>Sau khi hoàn thành việc bàn giao chiếc <a href="https://noithatchinhuei.github.io/ktscuongnguyen.github.io/du-an/anh-truong-ngo-8-tan-my-phu-do-giuong-ngu-nhua-chin-huei.html">giường ngủ nhựa Chin Huei cho nhà anh Trường tại ngõ 8 Tân Mỹ</a>, đồng hồ đã điểm gần 12h trưa ngày 27/8/2026. Trước khi rời khỏi mảnh đất Phú Đô giàu truyền thống, anh em thợ chúng tôi không quên ghé qua gánh hàng quen thuộc ngay gần cổng làng mua vội 2kg bún vảy ốc đặc sản tươi ngon để mang về xưởng ăn trưa.</p>
+<p>Sau khi hoàn thành việc bàn giao chiếc <a href="https://ktscuongnguyen.io.vn)/du-an/anh-truong-ngo-8-tan-my-phu-do-giuong-ngu-nhua-chin-huei.html">giường ngủ nhựa Chin Huei cho nhà anh Trường tại ngõ 8 Tân Mỹ</a>, đồng hồ đã điểm gần 12h trưa ngày 27/8/2026. Trước khi rời khỏi mảnh đất Phú Đô giàu truyền thống, anh em thợ chúng tôi không quên ghé qua gánh hàng quen thuộc ngay gần cổng làng mua vội 2kg bún vảy ốc đặc sản tươi ngon để mang về xưởng ăn trưa.</p>
 
 <p>Thế nhưng, cuộc gọi điện thoại bất ngờ ngay trong lúc anh em vừa xếp gọn đồ nghề lên xe đã mở ra một lịch trình mới. Đó là cuộc gọi từ một vị khách hàng thân thiết đặt lịch khảo sát và hoàn thiện gấp hệ tủ quần áo cánh lùa kịch trần kết hợp bàn trang điểm cho căn phòng ngủ vừa hoàn thiện thô.</p>
 
@@ -56,7 +56,7 @@ categories: du-an
 <p>Nội thất Chin Huei cam kết mang đến những sản phẩm nội thất nhựa cao cấp, chuẩn chất lượng với dịch vụ tư vấn, thiết kế và thi công chuyên nghiệp nhất.</p>
 
 <ul>
-    <li><strong>Website chính thức:</strong> <a href="https://noithatchinhuei.github.io/ktscuongnguyen.github.io">Nội thất Chin Huei - KTS Cường Nguyễn</a></li>
+    <li><strong>Website chính thức:</strong> <a href="https://ktscuongnguyen.io.vn)">Nội thất Chin Huei - KTS Cường Nguyễn</a></li>
     <li><strong>Hotline / Zalo tư vấn:</strong> <strong>0359.117.525</strong></li>
     <li><strong>Instagram:</strong> <a href="https://www.instagram.com/ktscuongnguyen/">instagram.com/ktscuongnguyen</a></li>
     <li><strong>Pinterest:</strong> <a href="https://www.pinterest.com/ktscuongnguyenvn/">pinterest.com/ktscuongnguyenvn</a></li>

@@ -1,6 +1,6 @@
 # Nhật ký thi công Tủ bếp nhựa Chin-Huei 20+ chữ L kịch trần cao cấp cho chị Mai Phương (Phố Tây Sơn, Đan Phượng)
 
-Sau khi hoàn thành [bàn giao tủ quần áo 2 cánh lùa nhựa Chin-Huei cho anh Hoàng Hên tại ngõ 13 Dốc Tam Đa (Ba Đình)](https://noithatchinhuei.github.io/ktscuongnguyen.github.io/du-an/hoang-hen-doc-tam-da-ba-dinh-tu-quan-ao-2-canh-nhua-chin-huei) trong buổi sáng, vào chiều ngày 22/8/2026, **KTS Cường Nguyễn** lại tiếp tục lăn bánh sang khu vực phía Tây Hà Nội.
+Sau khi hoàn thành [bàn giao tủ quần áo 2 cánh lùa nhựa Chin-Huei cho anh Hoàng Hên tại ngõ 13 Dốc Tam Đa (Ba Đình)](https://ktscuongnguyen.io.vn)/du-an/hoang-hen-doc-tam-da-ba-dinh-tu-quan-ao-2-canh-nhua-chin-huei) trong buổi sáng, vào chiều ngày 22/8/2026, **KTS Cường Nguyễn** lại tiếp tục lăn bánh sang khu vực phía Tây Hà Nội.
 
 Điểm đến lần này là ngôi nhà phố hiện đại của **chị Mai Phương** tại **phố Tây Sơn, thị trấn Phùng, huyện Đan Phượng** – cách xưởng Hàm Nghi khoảng 21km.
 

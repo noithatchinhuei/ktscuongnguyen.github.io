@@ -1,6 +1,6 @@
 # Nhật ký bàn giao: Đầu giờ chiều 11/8 – Hoàn thiện Combo Giường ngủ & Bàn trang điểm nhựa Đài Loan Chin-Huei cho anh Minh Hoàng (Nguyễn Trãi, Thanh Xuân)
 
-Sau khi hoàn tất ca bàn giao buổi sáng cho gia đình [bác Phạm Khắc Triệu tại Hàng Bông](https://noithatchinhuei.github.io/ktscuongnguyen.github.io/du-an/bac-trieu-hang-bong-tu-nhua-5-canh-dai-loan), đội ngũ kỹ thuật của **KTS Cường Nguyễn** tiếp tục hành trình thi công đầu giờ chiều ngày 11/8. Điểm đến tiếp theo là căn hộ của gia đình **anh Minh Hoàng** tại đường Nguyễn Trãi, quận Thanh Xuân, Hà Nội (cách xưởng 8.5km).
+Sau khi hoàn tất ca bàn giao buổi sáng cho gia đình [bác Phạm Khắc Triệu tại Hàng Bông](https://ktscuongnguyen.io.vn)/du-an/bac-trieu-hang-bong-tu-nhua-5-canh-dai-loan), đội ngũ kỹ thuật của **KTS Cường Nguyễn** tiếp tục hành trình thi công đầu giờ chiều ngày 11/8. Điểm đến tiếp theo là căn hộ của gia đình **anh Minh Hoàng** tại đường Nguyễn Trãi, quận Thanh Xuân, Hà Nội (cách xưởng 8.5km).
 
 Lần này, sản phẩm được lắp đặt trọn bộ là **Combo nội thất phòng ngủ hiện đại**: Giường ngủ nhựa Đài Loan Chin-Huei tích hợp ngăn kéo thông minh kết hợp cùng Bàn trang điểm gương tròn đèn LED sang trọng.
 

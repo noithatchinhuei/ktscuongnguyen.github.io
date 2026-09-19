@@ -1,6 +1,6 @@
 # Nhật ký thi công Tủ quần áo 4 cánh 1 kệ trang trí in 3D nhựa Chin-Huei cho chị Tuyết Mai (Ngõ 43 Trung Kính, Cầu Giấy)
 
-Tiếp nối chuỗi công trình thực tế – [bàn giao tủ quần áo nhựa Chin-Huei cao cấp cho anh Tiến Đạt tại Hà Đông](https://noithatchinhuei.github.io/ktscuongnguyen.github.io/du-an/anh-tien-dat-ha-dong/) – xưởng sản xuất **KTS Cường Nguyễn** lại tiếp tục lăn bánh mang đến những sản phẩm nội thất nhựa Đài Loan chính hãng chất lượng cho khách hàng khu vực nội thành Hà Nội.
+Tiếp nối chuỗi công trình thực tế – [bàn giao tủ quần áo nhựa Chin-Huei cao cấp cho anh Tiến Đạt tại Hà Đông](https://ktscuongnguyen.io.vn)/du-an/anh-tien-dat-ha-dong/) – xưởng sản xuất **KTS Cường Nguyễn** lại tiếp tục lăn bánh mang đến những sản phẩm nội thất nhựa Đài Loan chính hãng chất lượng cho khách hàng khu vực nội thành Hà Nội.
 
 Lần này, điểm dừng chân của đội ngũ thi công là ngôi nhà nằm trong **ngõ 43 Trung Kính, phường Yên Hòa, quận Cầu Giấy** – gia đình **chị Tuyết Mai**. Đoạn đường từ xưởng Hàm Nghi (Cầu Diễn, Nam Từ Liêm) đến nhà chị Mai dài khoảng 4.5km, tuy khá gần nhưng việc giao hàng ca trưa giữa lòng thành phố vẫn mang lại những trải nghiệm rất thực tế.
 

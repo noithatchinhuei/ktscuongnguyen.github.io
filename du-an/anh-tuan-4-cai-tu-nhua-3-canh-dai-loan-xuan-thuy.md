@@ -117,7 +117,7 @@ Với tôi, đó mới là giá trị thực sự của thiết kế nội thấ
 
 👉 [Tủ nhựa quần áo Chin Huei](https://noithatchinhuei.io.vn/tu-nhua-quan-ao/)
 
-👉 [Dự án Minh Tú – tân sinh viên Đại học Thương Mại](https://noithatchinhuei.github.io/ktscuongnguyen.github.io/du-an/minh-tu-tan-dh-thuong-mai-tu-nhua-2-canh)
+👉 [Dự án Minh Tú – tân sinh viên Đại học Thương Mại](https://ktscuongnguyen.io.vn)/du-an/minh-tu-tan-dh-thuong-mai-tu-nhua-2-canh)
 
 ## Thông tin công trình
 
@@ -133,6 +133,6 @@ Với tôi, đó mới là giá trị thực sự của thiết kế nội thấ
 Ngõ 19 Hàm Nghi, phường Từ Liêm, Hà Nội  
 **Hotline: 0359 117 525**
 
-👉 [Xem trang KTS Cường Nguyễn](https://noithatchinhuei.github.io/ktscuongnguyen.github.io/)
+👉 [Xem trang KTS Cường Nguyễn](https://ktscuongnguyen.io.vn)/)
 
 **CTA:** Nếu anh/chị đang chuẩn bị cải tạo phòng trọ để đón tân sinh viên, hãy ưu tiên khảo sát mặt bằng, xác định nhu cầu lưu trữ và lựa chọn kích thước nội thất phù hợp trước khi sản xuất.

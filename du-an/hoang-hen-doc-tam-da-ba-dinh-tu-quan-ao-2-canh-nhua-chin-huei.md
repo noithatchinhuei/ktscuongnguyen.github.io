@@ -1,6 +1,6 @@
 # Nhật ký thi công Tủ quần áo 2 cánh lùa nhựa Đài Loan Chin-Huei màu trắng kèm kệ trang trí cho anh Hoàng Hên (Ngõ 13 Dốc Tam Đa, Ba Đình)
 
-Tiếp nối công trình [bàn giao tủ quần áo cánh lùa nhựa Chin-Huei cho anh Ngô Quang Anh tại ngõ 264 Âu Cơ (Tây Hồ)](https://noithatchinhuei.github.io/ktscuongnguyen.github.io/du-an/ngo-quang-anh-au-co-tay-ho-tu-quan-ao-canh-lua-nhua-chin-huei), sáng ngày 22/8/2026, xưởng sản xuất **KTS Cường Nguyễn** lại tiếp tục lăn bánh thực hiện chuyến giao hàng sang quận Ba Đình.
+Tiếp nối công trình [bàn giao tủ quần áo cánh lùa nhựa Chin-Huei cho anh Ngô Quang Anh tại ngõ 264 Âu Cơ (Tây Hồ)](https://ktscuongnguyen.io.vn)/du-an/ngo-quang-anh-au-co-tay-ho-tu-quan-ao-canh-lua-nhua-chin-huei), sáng ngày 22/8/2026, xưởng sản xuất **KTS Cường Nguyễn** lại tiếp tục lăn bánh thực hiện chuyến giao hàng sang quận Ba Đình.
 
 Khách hàng lần này là **anh Hoàng Hên** tại **ngõ 13 Dốc Tam Đa, phường Thụy Khuê, quận Ba Đình** – cách xưởng Hàm Nghi khoảng 10km.
 

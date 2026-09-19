@@ -1,6 +1,6 @@
 # Nhật ký bàn giao: Cuối buổi chiều 11/8 – Lắp đặt tủ quần áo 2 cánh nhựa Chin-Huei cho tân sinh viên Minh Tú (Trần Bình, Hồ Tùng Mậu)
 
-Sau khi hoàn thành chuyến lắp đặt [combo giường và bàn trang điểm cho gia đình anh Minh Hoàng tại Nguyễn Trãi](https://noithatchinhuei.github.io/ktscuongnguyen.github.io/du-an/thi-cong-combo-ban-phan-giuong-anh-hoang-nguyen-trai), đội ngũ **KTS Cường Nguyễn** tiếp tục di chuyển sang địa điểm tiếp theo vào cuối buổi chiều ngày 11/8. Chặng dừng chân lần này rất gần xưởng sản xuất (chỉ cách 1.5km): Căn phòng trọ nhỏ nằm sâu trong ngõ chật chội trên đường Trần Bình, gần khu vực Hồ Tùng Mậu.
+Sau khi hoàn thành chuyến lắp đặt [combo giường và bàn trang điểm cho gia đình anh Minh Hoàng tại Nguyễn Trãi](https://ktscuongnguyen.io.vn)/du-an/thi-cong-combo-ban-phan-giuong-anh-hoang-nguyen-trai), đội ngũ **KTS Cường Nguyễn** tiếp tục di chuyển sang địa điểm tiếp theo vào cuối buổi chiều ngày 11/8. Chặng dừng chân lần này rất gần xưởng sản xuất (chỉ cách 1.5km): Căn phòng trọ nhỏ nằm sâu trong ngõ chật chội trên đường Trần Bình, gần khu vực Hồ Tùng Mậu.
 
 Gia chủ của căn phòng trọ là bạn **Minh Tú** (18 tuổi) – cô tân sinh viên vừa chính thức trúng tuyển vào **Đại học Thương Mại**.
 

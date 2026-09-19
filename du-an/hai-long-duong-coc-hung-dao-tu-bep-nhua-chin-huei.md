@@ -1,6 +1,6 @@
 # Nhật ký thi công: Bàn giao Tủ bếp nhựa Đài Loan Chin-Huei chữ L dài 3m (CH-TBL01) màu xám phối trắng cho anh Hải Long (Thôn Dương Cốc, xã Hưng Đạo)
 
-Tiếp nối ca [bàn giao tủ quần áo 3 cánh 4 ngăn kéo nhựa Chin-Huei cho bạn Trung Kiên tại ngõ 20 Mỹ Đình](https://noithatchinhuei.github.io/ktscuongnguyen.github.io/du-an/trung-kien-ngo-20-my-dinh-tu-quan-ao-3-canh-nhua-chin-huei) trong buổi sáng ngày Chủ nhật 23/8/2026 (11/7 âm lịch), đội ngũ thi công của **KTS Cường Nguyễn** lại tiếp tục lăn bánh thực hiện chuyến giao hàng sang phía Tây Hà Nội.
+Tiếp nối ca [bàn giao tủ quần áo 3 cánh 4 ngăn kéo nhựa Chin-Huei cho bạn Trung Kiên tại ngõ 20 Mỹ Đình](https://ktscuongnguyen.io.vn)/du-an/trung-kien-ngo-20-my-dinh-tu-quan-ao-3-canh-nhua-chin-huei) trong buổi sáng ngày Chủ nhật 23/8/2026 (11/7 âm lịch), đội ngũ thi công của **KTS Cường Nguyễn** lại tiếp tục lăn bánh thực hiện chuyến giao hàng sang phía Tây Hà Nội.
 
 Khách hàng lần này là **anh Hải Long** tại **thôn Dương Cốc, xã Hưng Đạo, Hà Nội** (khu vực Quốc Oai cũ) – cách xưởng Hàm Nghi khoảng 17km.
 

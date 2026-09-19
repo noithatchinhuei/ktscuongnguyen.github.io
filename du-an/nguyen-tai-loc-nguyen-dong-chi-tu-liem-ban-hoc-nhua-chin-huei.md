@@ -1,6 +1,6 @@
 # Nhật ký bàn giao siêu tốc: Thi công Bàn học đôi nhựa Đài Loan Chin-Huei (CH-BH14) màu xám phối trắng cho anh Nguyễn Tài Lộc (Ngõ 162 Nguyễn Đổng Chi, Từ Liêm)
 
-Vừa hoàn thành [bàn giao hệ tủ bếp nhựa Chin-Huei 20+ kịch trần cho chị Mai Phương tại phố Tây Sơn (Đan Phượng)](https://noithatchinhuei.github.io/ktscuongnguyen.github.io/du-an/mai-phuong-tay-son-dan-phuong-tu-bep-nhua-chin-huei) khi đồng hồ đã điểm hơn 15h chiều ngày 22/8/2026, anh em xưởng **KTS Cường Nguyễn** tranh thủ mua ít nem nắm Phùng trứ danh để chuẩn bị cho buổi xem trận chung kết bóng đá Việt Nam – Thái Lan lúc 20h cùng ngày.
+Vừa hoàn thành [bàn giao hệ tủ bếp nhựa Chin-Huei 20+ kịch trần cho chị Mai Phương tại phố Tây Sơn (Đan Phượng)](https://ktscuongnguyen.io.vn)/du-an/mai-phuong-tay-son-dan-phuong-tu-bep-nhua-chin-huei) khi đồng hồ đã điểm hơn 15h chiều ngày 22/8/2026, anh em xưởng **KTS Cường Nguyễn** tranh thủ mua ít nem nắm Phùng trứ danh để chuẩn bị cho buổi xem trận chung kết bóng đá Việt Nam – Thái Lan lúc 20h cùng ngày.
 
 Đúng lúc chuẩn bị rời thị trấn Phùng về xưởng, xưởng lại nhận tiếp đơn hàng hỏa tốc: Thi công và bàn giao bộ **bàn học đôi nhựa Chin-Huei (CH-BH14)** cho **anh Nguyễn Tài Lộc** tại **ngõ 162 Nguyễn Đổng Chi, phường Từ Liêm, Hà Nội** (cách xưởng Hàm Nghi chỉ 2km).
 

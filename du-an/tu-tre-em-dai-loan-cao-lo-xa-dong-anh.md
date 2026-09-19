@@ -1,6 +1,6 @@
 # Nhật ký thi công: Ca tối Thứ 6 (14/8) – Bàn giao Combo 2 Tủ quần áo trẻ em nhựa Chin-Huei CH-TTE08 ngộ nghĩnh
 
-Tiếp nối chuyến bàn giao [quầy lễ tân nhựa Chin-Huei phối kính cho anh Việt tại không gian TechSpace (Hoàng Văn Thái)](https://noithatchinhuei.github.io/ktscuongnguyen.github.io/du-an/anh-viet-techspace-hoang-van-thai-quay-le-tan), tối ngày 14/8/2026 (Thứ Sáu), đội ngũ thi công **KTS Cường Nguyễn** lại tiếp tục lên đường bàn giao đơn hàng tiếp theo. Sản phẩm lần này là bộ Combo 2 tủ quần áo trẻ em nhựa Đài Loan Chin-Huei cao cấp mã **CH-TTE08** dành riêng cho căn phòng của các bé gái.
+Tiếp nối chuyến bàn giao [quầy lễ tân nhựa Chin-Huei phối kính cho anh Việt tại không gian TechSpace (Hoàng Văn Thái)](https://ktscuongnguyen.io.vn)/du-an/anh-viet-techspace-hoang-van-thai-quay-le-tan), tối ngày 14/8/2026 (Thứ Sáu), đội ngũ thi công **KTS Cường Nguyễn** lại tiếp tục lên đường bàn giao đơn hàng tiếp theo. Sản phẩm lần này là bộ Combo 2 tủ quần áo trẻ em nhựa Đài Loan Chin-Huei cao cấp mã **CH-TTE08** dành riêng cho căn phòng của các bé gái.
 
 ---
 
@@ -45,7 +45,7 @@ Một chiếc tủ quần áo màu sắc xinh xắn, chuẩn chất lượng nh�
 Quý phụ huynh muốn chọn mua các mẫu tủ quần áo trẻ em nhựa Đài Loan Chin-Huei xinh xắn và chất lượng, vui lòng tham khảo chi tiết tại:
 * [Danh mục Tủ nhựa quần áo trẻ em Đài Loan Chin-Huei chính hãng](https://noithatchinhuei.io.vn/tu-nhua-quan-ao-tre-em-dai-loan-chin-huei/)
 * [Tổng hợp các mẫu Tủ nhựa quần áo Chin-Huei mới nhất](https://noithatchinhuei.io.vn/tu-nhua-quan-ao/)
-* Xem lại nhật ký công trình trước: [Bàn giao quầy lễ tân cho anh Việt (TechSpace Hoàng Văn Thái)](https://noithatchinhuei.github.io/ktscuongnguyen.github.io/du-an/anh-viet-techspace-hoang-van-thai-quay-le-tan)
+* Xem lại nhật ký công trình trước: [Bàn giao quầy lễ tân cho anh Việt (TechSpace Hoàng Văn Thái)](https://ktscuongnguyen.io.vn)/du-an/anh-viet-techspace-hoang-van-thai-quay-le-tan)
 
 ---
 
@@ -53,4 +53,4 @@ Quý phụ huynh muốn chọn mua các mẫu tủ quần áo trẻ em nhựa Đ
 * **Thương hiệu:** Nội Thất Chin-Huei - KTS Cường Nguyễn
 * **Địa chỉ xưởng sản xuất:** Ngõ 19 Hàm Nghi, P. Cầu Diễn, Q. Nam Từ Liêm, Hà Nội
 * **Hotline / Zalo tư vấn:** **0359 117 525**
-* **GitHub Repository:** [https://noithatchinhuei.github.io/ktscuongnguyen.github.io/](https://noithatchinhuei.github.io/ktscuongnguyen.github.io/)
+* **GitHub Repository:** [https://ktscuongnguyen.io.vn)/](https://ktscuongnguyen.io.vn)/)

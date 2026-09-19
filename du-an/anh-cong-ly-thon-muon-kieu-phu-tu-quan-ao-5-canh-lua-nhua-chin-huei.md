@@ -1,6 +1,6 @@
 # Nhật ký thi công: Bàn giao Tủ quần áo 5 cánh lùa nhựa Chin-Huei (CH-T5C04) màu trắng cho anh Công Lý (Thôn Muôn, xã Kiều Phú) – Vượt đường ngập lũ vùng Thạch Thất
 
-Nối tiếp chuyến [bàn giao tủ bếp nhựa Chin-Huei chữ L cho gia đình anh Hải Long tại thôn Dương Cốc, xã Hưng Đạo](https://noithatchinhuei.github.io/ktscuongnguyen.github.io/du-an/hai-long-duong-coc-hung-dao-tu-bep-nhua-chin-huei), sáng ngày 25/8/2026, đội ngũ thi công **KTS Cường Nguyễn** lại tiếp tục lên đường thực hiện ca lắp đặt nội thất tại khu vực phía Tây Hà Nội.
+Nối tiếp chuyến [bàn giao tủ bếp nhựa Chin-Huei chữ L cho gia đình anh Hải Long tại thôn Dương Cốc, xã Hưng Đạo](https://ktscuongnguyen.io.vn)/du-an/hai-long-duong-coc-hung-dao-tu-bep-nhua-chin-huei), sáng ngày 25/8/2026, đội ngũ thi công **KTS Cường Nguyễn** lại tiếp tục lên đường thực hiện ca lắp đặt nội thất tại khu vực phía Tây Hà Nội.
 
 Khách hàng lần này là **anh Công Lý** tại **thôn Muôn, xã Kiều Phú, Hà Nội** (thuộc khu vực huyện Thạch Thất cũ).
 

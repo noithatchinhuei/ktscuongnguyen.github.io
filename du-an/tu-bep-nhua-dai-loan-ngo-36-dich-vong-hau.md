@@ -1,6 +1,6 @@
 # Nhật ký thi công Tủ bếp nhựa Đài Loan Chin-Huei chữ I mini cho chị Minh Hằng (Ngõ 36 Dịch Vọng Hậu, Cầu Giấy)
 
-Tiếp nối công trình [bàn giao tủ quần áo 6 cánh nhựa Chin-Huei cho anh Hoàng Minh Đức tại Chung cư Moonlight 1 An Lạc (Hoài Đức)](https://noithatchinhuei.github.io/ktscuongnguyen.github.io/du-an/chung-cu-moonlight-1-an-lac-anh-duc-tu-nhua-quan-ao-6-canh), ca tối ngày 18/8/2026, đội ngũ thi công của **KTS Cường Nguyễn** lại lên đường thực hiện ca lắp đặt đặc biệt.
+Tiếp nối công trình [bàn giao tủ quần áo 6 cánh nhựa Chin-Huei cho anh Hoàng Minh Đức tại Chung cư Moonlight 1 An Lạc (Hoài Đức)](https://ktscuongnguyen.io.vn)/du-an/chung-cu-moonlight-1-an-lac-anh-duc-tu-nhua-quan-ao-6-canh), ca tối ngày 18/8/2026, đội ngũ thi công của **KTS Cường Nguyễn** lại lên đường thực hiện ca lắp đặt đặc biệt.
 
 Điểm đến lần này là ngôi nhà nằm trong **ngõ 36 Dịch Vọng Hậu, phường Dịch Vọng Hậu, quận Cầu Giấy** – gia đình **chị Minh Hằng**. Khoảng cách từ xưởng Hàm Nghi (Cầu Diễn, Nam Từ Liêm) đến nhà chị Hằng chỉ khoảng 3.5km, rất thuận tiện cho việc di chuyển ca tối.
 

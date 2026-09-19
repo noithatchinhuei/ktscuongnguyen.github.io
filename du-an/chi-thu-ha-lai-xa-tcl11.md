@@ -60,7 +60,7 @@ Nếu anh/chị đang tìm hiểu các mẫu tủ quần áo cánh lùa, có th�
 
 👉 [Tủ nhựa quần áo Chin Huei](https://noithatchinhuei.io.vn/tu-nhua-quan-ao/)
 
-👉 [Trang chủ KTS Cường Nguyễn](https://noithatchinhuei.github.io/ktscuongnguyen.github.io/)
+👉 [Trang chủ KTS Cường Nguyễn](https://ktscuongnguyen.io.vn)/)
 
 Danh mục tủ cánh lùa hiện có nhiều lựa chọn từ 4, 5 đến 6 cánh, trong đó CH-TCL11 là mẫu 6 cánh lùa được đăng trong danh mục sản phẩm. :contentReference[oaicite:1]{index=1}
 
@@ -87,7 +87,7 @@ Ngõ 19 Hàm Nghi, phường Từ Liêm, Hà Nội
 **Website:** https://noithatchinhuei.io.vn/
 
 **Trang KTS Cường Nguyễn:**  
-https://noithatchinhuei.github.io/ktscuongnguyen.github.io/
+https://ktscuongnguyen.io.vn)/
 
 ---
 
@@ -143,14 +143,14 @@ https://noithatchinhuei.github.io/ktscuongnguyen.github.io/
         "https://www.instagram.com/ktscuongnguyen/",
         "https://www.pinterest.com/ktscuongnguyenvn/",
         "https://ktscuongnguyen.webflow.io/",
-        "https://noithatchinhuei.github.io/ktscuongnguyen.github.io/",
+        "https://ktscuongnguyen.io.vn)/",
         "https://ktscuongnguyen.blogspot.com/"
       ]
     },
 
     {
       "@type": "ImageObject",
-      "@id": "https://noithatchinhuei.github.io/ktscuongnguyen.github.io/du-an/chi-thu-ha-lai-xa-tcl11/#primaryimage",
+      "@id": "https://ktscuongnguyen.io.vn)/du-an/chi-thu-ha-lai-xa-tcl11/#primaryimage",
       "url": "https://noithatchinhuei.io.vn/wp-content/uploads/2026/08/Tu-nhua-quan-ao-6-canh-lua-Dai-Loan-Chin-Huei-don-gian-CH-TCL11-600x631.webp",
       "contentUrl": "https://noithatchinhuei.io.vn/wp-content/uploads/2026/08/Tu-nhua-quan-ao-6-canh-lua-Dai-Loan-Chin-Huei-don-gian-CH-TCL11-600x631.webp",
       "caption": "Tủ nhựa quần áo 6 cánh lùa Đài Loan Chin Huei CH-TCL11",
@@ -159,21 +159,21 @@ https://noithatchinhuei.github.io/ktscuongnguyen.github.io/
 
     {
       "@type": "WebPage",
-      "@id": "https://noithatchinhuei.github.io/ktscuongnguyen.github.io/du-an/chi-thu-ha-lai-xa-tcl11/",
-      "url": "https://noithatchinhuei.github.io/ktscuongnguyen.github.io/du-an/chi-thu-ha-lai-xa-tcl11/",
+      "@id": "https://ktscuongnguyen.io.vn)/du-an/chi-thu-ha-lai-xa-tcl11/",
+      "url": "https://ktscuongnguyen.io.vn)/du-an/chi-thu-ha-lai-xa-tcl11/",
       "name": "Chị Thu Hà – Lai Xá, Hoài Đức bàn giao tủ quần áo 6 cánh lùa Chin Huei CH-TCL11",
       "description": "Bàn giao tủ nhựa quần áo 6 cánh lùa Đài Loan Chin Huei CH-TCL11 cho chị Thu Hà tại xã Lai Xá, Hoài Đức, Hà Nội.",
       "isPartOf": {
         "@type": "WebSite",
-        "@id": "https://noithatchinhuei.github.io/ktscuongnguyen.github.io/#website",
-        "url": "https://noithatchinhuei.github.io/ktscuongnguyen.github.io/",
+        "@id": "https://ktscuongnguyen.io.vn)/#website",
+        "url": "https://ktscuongnguyen.io.vn)/",
         "name": "KTS Cường Nguyễn"
       },
       "primaryImageOfPage": {
-        "@id": "https://noithatchinhuei.github.io/ktscuongnguyen.github.io/du-an/chi-thu-ha-lai-xa-tcl11/#primaryimage"
+        "@id": "https://ktscuongnguyen.io.vn)/du-an/chi-thu-ha-lai-xa-tcl11/#primaryimage"
       },
       "breadcrumb": {
-        "@id": "https://noithatchinhuei.github.io/ktscuongnguyen.github.io/du-an/chi-thu-ha-lai-xa-tcl11/#breadcrumb"
+        "@id": "https://ktscuongnguyen.io.vn)/du-an/chi-thu-ha-lai-xa-tcl11/#breadcrumb"
       },
       "author": {
         "@id": "https://noithatchinhuei.io.vn/#author"
@@ -185,7 +185,7 @@ https://noithatchinhuei.github.io/ktscuongnguyen.github.io/
 
     {
       "@type": "Article",
-      "@id": "https://noithatchinhuei.github.io/ktscuongnguyen.github.io/du-an/chi-thu-ha-lai-xa-tcl11/#article",
+      "@id": "https://ktscuongnguyen.io.vn)/du-an/chi-thu-ha-lai-xa-tcl11/#article",
       "headline": "Chị Thu Hà – Lai Xá, Hoài Đức bàn giao tủ quần áo 6 cánh lùa Chin Huei CH-TCL11",
       "description": "Công trình bàn giao tủ quần áo 6 cánh lùa nhựa Đài Loan Chin Huei CH-TCL11 cho chị Thu Hà tại Lai Xá, Hoài Đức.",
       "image": [
@@ -200,7 +200,7 @@ https://noithatchinhuei.github.io/ktscuongnguyen.github.io/
         "@id": "https://noithatchinhuei.io.vn/#organization"
       },
       "mainEntityOfPage": {
-        "@id": "https://noithatchinhuei.github.io/ktscuongnguyen.github.io/du-an/chi-thu-ha-lai-xa-tcl11/"
+        "@id": "https://ktscuongnguyen.io.vn)/du-an/chi-thu-ha-lai-xa-tcl11/"
       },
       "articleSection": "Dự án",
       "keywords": [
@@ -221,25 +221,25 @@ https://noithatchinhuei.github.io/ktscuongnguyen.github.io/
 
     {
       "@type": "BreadcrumbList",
-      "@id": "https://noithatchinhuei.github.io/ktscuongnguyen.github.io/du-an/chi-thu-ha-lai-xa-tcl11/#breadcrumb",
+      "@id": "https://ktscuongnguyen.io.vn)/du-an/chi-thu-ha-lai-xa-tcl11/#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Trang chủ",
-          "item": "https://noithatchinhuei.github.io/ktscuongnguyen.github.io/"
+          "item": "https://ktscuongnguyen.io.vn)/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Dự án",
-          "item": "https://noithatchinhuei.github.io/ktscuongnguyen.github.io/du-an-tong-hop/"
+          "item": "https://ktscuongnguyen.io.vn)/du-an-tong-hop/"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "Chị Thu Hà – Lai Xá, Hoài Đức",
-          "item": "https://noithatchinhuei.github.io/ktscuongnguyen.github.io/du-an/chi-thu-ha-lai-xa-tcl11/"
+          "item": "https://ktscuongnguyen.io.vn)/du-an/chi-thu-ha-lai-xa-tcl11/"
         }
       ]
     }

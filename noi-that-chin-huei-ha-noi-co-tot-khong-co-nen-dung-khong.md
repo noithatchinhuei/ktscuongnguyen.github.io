@@ -47,7 +47,7 @@ Tại Hà Nội, xưởng sản xuất **Nội Thất Chin-Huei - KTS Cường N
 **CÓ**, nếu bạn đang tìm kiếm giải pháp nội thất:
 * **Bền bỉ trên 15 - 20 năm:** Xử lý triệt để bài toán mối mọt và ẩm mốc triệt hạ đồ đạc.
 * **Tối ưu chi phí:** Giá thành hợp lý hơn nhiều so với gỗ tự nhiên hay gỗ công nghiệp cao cấp An Cường nhưng tuổi thọ lại vượt trội ở môi trường ẩm.
-* **Thiết kế may đo linh hoạt:** Được trực tiếp [Kiến trúc sư Cường Nguyễn](https://noithatchinhuei.github.io/ktscuongnguyen.github.io/chan-dung-kts-cuong-nguyen-la-ai-que-o-dau) khảo sát, lên bản vẽ tối ưu hóa từng centimet không gian.
+* **Thiết kế may đo linh hoạt:** Được trực tiếp [Kiến trúc sư Cường Nguyễn](https://ktscuongnguyen.io.vn)/chan-dung-kts-cuong-nguyen-la-ai-que-o-dau) khảo sát, lên bản vẽ tối ưu hóa từng centimet không gian.
 
 ---
 
@@ -81,4 +81,4 @@ Quý khách hàng có thể tham khảo các dòng sản phẩm thi công thực
 * **Hotline / Zalo:** **0359.117.525**
 * **Fanpage Facebook:** [Nội Thất Chin-Huei Hà Nội](https://www.facebook.com/nothatchinhuei)
 * **Kênh X (Twitter):** [Nội Thất Chin-Huei X](https://x.com/noithatchinhuei)
-* **Tìm hiểu thêm về KTS:** [Chân dung KTS Cường Nguyễn](https://noithatchinhuei.github.io/ktscuongnguyen.github.io/chan-dung-kts-cuong-nguyen-la-ai-que-o-dau)
+* **Tìm hiểu thêm về KTS:** [Chân dung KTS Cường Nguyễn](https://ktscuongnguyen.io.vn)/chan-dung-kts-cuong-nguyen-la-ai-que-o-dau)

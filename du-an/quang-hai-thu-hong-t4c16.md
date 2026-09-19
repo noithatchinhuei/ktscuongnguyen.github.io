@@ -65,7 +65,7 @@ Cảm ơn **anh Quang Hải và cô Thu Hồng** đã tin tưởng lựa chọn 
 
 **Hotline: 0359 117 525**
 
-👉 [Xem trang KTS Cường Nguyễn](https://noithatchinhuei.github.io/ktscuongnguyen.github.io/)
+👉 [Xem trang KTS Cường Nguyễn](https://ktscuongnguyen.io.vn)/)
 
 👉 [Tham khảo tủ quần áo nhựa Chin Huei](https://noithatchinhuei.io.vn/tu-nhua-quan-ao/)
 
@@ -80,12 +80,12 @@ Nếu anh/chị đang cần một hệ tủ quần áo phù hợp với diện t
   "@graph": [
     {
       "@type": "Article",
-      "@id": "https://noithatchinhuei.github.io/ktscuongnguyen.github.io/du-an/quang-hai-thu-hong-t4c16/#article",
+      "@id": "https://ktscuongnguyen.io.vn)/du-an/quang-hai-thu-hong-t4c16/#article",
       "headline": "Bàn giao tủ quần áo 4 cánh lùa CH-T4C16 cho anh Quang Hải và cô Thu Hồng ngày 7/8",
       "description": "KTS Cường Nguyễn ghi nhận hai công trình bàn giao tủ quần áo 4 cánh lùa CH-T4C16 cho anh Quang Hải tại Vinhomes Smart City và cô Thu Hồng tại Ciputra, Hà Nội.",
       "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "https://noithatchinhuei.github.io/ktscuongnguyen.github.io/du-an/quang-hai-thu-hong-t4c16/"
+        "@id": "https://ktscuongnguyen.io.vn)/du-an/quang-hai-thu-hong-t4c16/"
       },
       "author": {
         "@type": "Person",
@@ -95,7 +95,7 @@ Nếu anh/chị đang cần một hệ tủ quần áo phù hợp với diện t
       "publisher": {
         "@type": "Person",
         "name": "KTS Cường Nguyễn",
-        "url": "https://noithatchinhuei.github.io/ktscuongnguyen.github.io/"
+        "url": "https://ktscuongnguyen.io.vn)/"
       },
       "datePublished": "2026-08-07",
       "dateModified": "2026-08-07",

@@ -1,6 +1,6 @@
 # Nhật ký thi công Tủ quần áo 6 cánh nhựa Đài Loan Chin-Huei cho anh Hoàng Minh Đức (Chung cư Moonlight 1 An Lạc, Hoài Đức)
 
-Tiếp nối công trình [bàn giao tủ quần áo in 3D nhựa Chin-Huei cho chị Tuyết Mai tại ngõ 43 Trung Kính (Cầu Giấy)](https://noithatchinhuei.github.io/ktscuongnguyen.github.io/du-an/tuyet-mai-trung-kinh-tu-quan-ao-3d-dai-loan), chiều ngày 18/8/2026, xưởng sản xuất **KTS Cường Nguyễn** lại tiếp tục lăn bánh. 
+Tiếp nối công trình [bàn giao tủ quần áo in 3D nhựa Chin-Huei cho chị Tuyết Mai tại ngõ 43 Trung Kính (Cầu Giấy)](https://ktscuongnguyen.io.vn)/du-an/tuyet-mai-trung-kinh-tu-quan-ao-3d-dai-loan), chiều ngày 18/8/2026, xưởng sản xuất **KTS Cường Nguyễn** lại tiếp tục lăn bánh. 
 
 Chuyến giao hàng lần này đưa đội ngũ thi công rời khỏi khu vực nội thành chật chội để đến với vùng ngoại ô đang phát triển vô cùng năng động phía Tây Hà Nội: Căn hộ của **anh Hoàng Minh Đức** (36 tuổi) tại Chung cư Moonlight 1 An Lạc Green Symphony (xã Vân Canh, huyện Hoài Đức) – cách xưởng Hàm Nghi khoảng 7km.
 

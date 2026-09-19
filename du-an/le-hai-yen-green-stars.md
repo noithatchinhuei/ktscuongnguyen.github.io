@@ -50,7 +50,7 @@ Ngõ 19 Hàm Nghi, phường Từ Liêm, Hà Nội
 
 **Hotline: 0359 117 525**
 
-👉 **[Xem trang chủ KTS Cường Nguyễn](https://noithatchinhuei.github.io/ktscuongnguyen.github.io/)**
+👉 **[Xem trang chủ KTS Cường Nguyễn](https://ktscuongnguyen.io.vn)/)**
 
 ### CTA
 

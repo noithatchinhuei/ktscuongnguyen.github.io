@@ -68,7 +68,7 @@ https://noithatchinhuei.io.vn/tu-nhua-quan-ao/
 
 Trang chủ KTS Cường Nguyễn:
 
-https://noithatchinhuei.github.io/ktscuongnguyen.github.io/
+https://ktscuongnguyen.io.vn)/
 
 ## Thông tin công trình
 
@@ -141,14 +141,14 @@ Ngõ 19 Hàm Nghi, phường Từ Liêm, Hà Nội
         "https://www.instagram.com/ktscuongnguyen/",
         "https://www.pinterest.com/ktscuongnguyenvn/",
         "https://ktscuongnguyen.webflow.io/",
-        "https://noithatchinhuei.github.io/ktscuongnguyen.github.io/",
+        "https://ktscuongnguyen.io.vn)/",
         "https://ktscuongnguyen.blogspot.com/"
       ]
     },
     {
       "@type": "WebSite",
-      "@id": "https://noithatchinhuei.github.io/ktscuongnguyen.github.io/#website",
-      "url": "https://noithatchinhuei.github.io/ktscuongnguyen.github.io/",
+      "@id": "https://ktscuongnguyen.io.vn)/#website",
+      "url": "https://ktscuongnguyen.io.vn)/",
       "name": "KTS Cường Nguyễn",
       "publisher": {
         "@id": "https://noithatchinhuei.io.vn/#organization"
@@ -156,11 +156,11 @@ Ngõ 19 Hàm Nghi, phường Từ Liêm, Hà Nội
     },
     {
       "@type": "WebPage",
-      "@id": "https://noithatchinhuei.github.io/ktscuongnguyen.github.io/du-an/kim-trong-lac-long-quan-tcl10/",
-      "url": "https://noithatchinhuei.github.io/ktscuongnguyen.github.io/du-an/kim-trong-lac-long-quan-tcl10/",
+      "@id": "https://ktscuongnguyen.io.vn)/du-an/kim-trong-lac-long-quan-tcl10/",
+      "url": "https://ktscuongnguyen.io.vn)/du-an/kim-trong-lac-long-quan-tcl10/",
       "name": "Bác Kim Trọng bàn giao tủ quần áo 5 cánh lùa CH-TCL10 tại Lạc Long Quân, Tây Hồ",
       "isPartOf": {
-        "@id": "https://noithatchinhuei.github.io/ktscuongnguyen.github.io/#website"
+        "@id": "https://ktscuongnguyen.io.vn)/#website"
       },
       "about": {
         "@id": "https://noithatchinhuei.io.vn/tu-nhua-quan-ao-5-canh-lua-kem-1-ke-don-gian-dai-loan-chin-huei-ch-tcl10/#product"
@@ -186,7 +186,7 @@ Ngõ 19 Hàm Nghi, phường Từ Liêm, Hà Nội
     },
     {
       "@type": "Article",
-      "@id": "https://noithatchinhuei.github.io/ktscuongnguyen.github.io/du-an/kim-trong-lac-long-quan-tcl10/#article",
+      "@id": "https://ktscuongnguyen.io.vn)/du-an/kim-trong-lac-long-quan-tcl10/#article",
       "headline": "Bác Kim Trọng – Lạc Long Quân, Tây Hồ: bàn giao tủ quần áo 5 cánh lùa CH-TCL10",
       "description": "Công trình bàn giao tủ nhựa quần áo 5 cánh lùa kèm 1 kệ đơn giản Chin Huei CH-TCL10 cho bác Kim Trọng tại phố Lạc Long Quân, Tây Hồ, Hà Nội.",
       "image": "https://noithatchinhuei.io.vn/wp-content/uploads/2026/08/Tu-nhua-quan-ao-5-canh-lua-kem-1-ke-don-gian-CH-TCL10-600x449.webp",
@@ -197,7 +197,7 @@ Ngõ 19 Hàm Nghi, phường Từ Liêm, Hà Nội
         "@id": "https://noithatchinhuei.io.vn/#organization"
       },
       "mainEntityOfPage": {
-        "@id": "https://noithatchinhuei.github.io/ktscuongnguyen.github.io/du-an/kim-trong-lac-long-quan-tcl10/"
+        "@id": "https://ktscuongnguyen.io.vn)/du-an/kim-trong-lac-long-quan-tcl10/"
       },
       "about": {
         "@id": "https://noithatchinhuei.io.vn/tu-nhua-quan-ao-5-canh-lua-kem-1-ke-don-gian-dai-loan-chin-huei-ch-tcl10/#product"
@@ -207,25 +207,25 @@ Ngõ 19 Hàm Nghi, phường Từ Liêm, Hà Nội
     },
     {
       "@type": "BreadcrumbList",
-      "@id": "https://noithatchinhuei.github.io/ktscuongnguyen.github.io/du-an/kim-trong-lac-long-quan-tcl10/#breadcrumb",
+      "@id": "https://ktscuongnguyen.io.vn)/du-an/kim-trong-lac-long-quan-tcl10/#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Trang chủ",
-          "item": "https://noithatchinhuei.github.io/ktscuongnguyen.github.io/"
+          "item": "https://ktscuongnguyen.io.vn)/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Dự án",
-          "item": "https://noithatchinhuei.github.io/ktscuongnguyen.github.io/du-an/"
+          "item": "https://ktscuongnguyen.io.vn)/du-an/"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "Bác Kim Trọng – Lạc Long Quân – CH-TCL10",
-          "item": "https://noithatchinhuei.github.io/ktscuongnguyen.github.io/du-an/kim-trong-lac-long-quan-tcl10/"
+          "item": "https://ktscuongnguyen.io.vn)/du-an/kim-trong-lac-long-quan-tcl10/"
         }
       ]
     }

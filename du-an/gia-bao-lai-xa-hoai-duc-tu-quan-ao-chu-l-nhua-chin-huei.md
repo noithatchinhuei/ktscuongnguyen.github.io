@@ -1,6 +1,6 @@
 # Nhật ký thi công Tủ quần áo chữ L kích trần nhựa Đài Loan Chin-Huei kèm kệ trang trí LED cho anh Gia Bảo (Ngõ 27 Lai Xá, Hoài Đức)
 
-Tiếp nối công trình [bàn giao tủ quần áo 4 cánh nhựa Chin-Huei cho anh Duy Kiên tại Biệt thự Splendora An Khánh](https://noithatchinhuei.github.io/ktscuongnguyen.github.io/du-an/duy-kien-splendora-an-khanh-hoai-duc-tu-quan-ao-4-canh-nhua-chin-huei), vào ca chiều ngày 20/8/2026, xưởng sản xuất **KTS Cường Nguyễn** tiếp tục thực hiện chuyến giao hàng thứ hai tại khu vực Hoài Đức.
+Tiếp nối công trình [bàn giao tủ quần áo 4 cánh nhựa Chin-Huei cho anh Duy Kiên tại Biệt thự Splendora An Khánh](https://ktscuongnguyen.io.vn)/du-an/duy-kien-splendora-an-khanh-hoai-duc-tu-quan-ao-4-canh-nhua-chin-huei), vào ca chiều ngày 20/8/2026, xưởng sản xuất **KTS Cường Nguyễn** tiếp tục thực hiện chuyến giao hàng thứ hai tại khu vực Hoài Đức.
 
 Điểm đến lần này là căn nhà phố của **anh Gia Bảo** tại **ngõ 27 Lai Xá, xã Kim Chung, huyện Hoài Đức** – cách xưởng Hàm Nghi khoảng 7km theo trục Quốc lộ 32.
 

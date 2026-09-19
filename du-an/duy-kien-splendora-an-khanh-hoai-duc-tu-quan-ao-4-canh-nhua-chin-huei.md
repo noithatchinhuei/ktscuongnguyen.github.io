@@ -1,6 +1,6 @@
 # Nhật ký thi công Tủ quần áo 4 cánh nhựa Đài Loan Chin-Huei kèm kệ trang trí cho anh Duy Kiên (Biệt thự Splendora An Khánh, Hoài Đức)
 
-Tiếp nối chuỗi công trình [bàn giao tủ quần áo 6 cánh nhựa Chin-Huei cho anh Hoàng Minh Đức tại Chung cư Moonlight 1 An Lạc](https://noithatchinhuei.github.io/ktscuongnguyen.github.io/du-an/chung-cu-moonlight-1-an-lac-anh-duc-tu-nhua-quan-ao-6-canh), sáng ngày 20/8/2026, đội ngũ thi công của **KTS Cường Nguyễn** lại tiếp tục lăn bánh sang khu vực Hoài Đức.
+Tiếp nối chuỗi công trình [bàn giao tủ quần áo 6 cánh nhựa Chin-Huei cho anh Hoàng Minh Đức tại Chung cư Moonlight 1 An Lạc](https://ktscuongnguyen.io.vn)/du-an/chung-cu-moonlight-1-an-lac-anh-duc-tu-nhua-quan-ao-6-canh), sáng ngày 20/8/2026, đội ngũ thi công của **KTS Cường Nguyễn** lại tiếp tục lăn bánh sang khu vực Hoài Đức.
 
 Chuyến giao hàng lần này diễn ra trong không khí vô cùng hân hoan sau dư âm chiến thắng thuyết phục 2-0 của đội tuyển Việt Nam trước Malaysia đêm qua. Sau những giờ phút hòa cùng dòng người đi bão cuồng nhiệt, sáng 20/8, anh em thợ lại có mặt đúng giờ tại căn Penthouse biệt thự thuộc Khu đô thị **Splendora An Khánh (Hoài Đức)** của **anh Duy Kiên** – cách xưởng Hàm Nghi khoảng 12km.
 

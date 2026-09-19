@@ -1,6 +1,6 @@
 # Nhật ký thi công: Trưa 14/8 – Bàn giao Quầy lễ tân nhựa Chin-Huei phối kính cho anh Việt (Chủ TechSpace, Ngõ 93 Hoàng Văn Thái, Thanh Xuân)
 
-Tiếp nối công trình [bàn giao 4 cái tủ nhựa 3 cánh Đài Loan cho anh Tuấn tại Xuân Thủy](https://noithatchinhuei.github.io/ktscuongnguyen.github.io/du-an/anh-tuan-4-cai-tu-nhua-3-canh-dai-loan-xuan-thuy), trưa ngày 14/8/2026 (ngày mùng 2 tháng Bảy âm lịch), xe chở hàng của **KTS Cường Nguyễn** tiếp tục lăn bánh thực hiện chuyến bàn giao mới. Điểm đến lần này là văn phòng chia sẻ/co-working không gian công nghệ **TechSpace** của **anh Việt**, nằm sâu trong ngõ 93 Hoàng Văn Thái, quận Thanh Xuân, Hà Nội – chặng đường dài khoảng 12km từ xưởng sản xuất ngõ 19 Hàm Nghi.
+Tiếp nối công trình [bàn giao 4 cái tủ nhựa 3 cánh Đài Loan cho anh Tuấn tại Xuân Thủy](https://ktscuongnguyen.io.vn)/du-an/anh-tuan-4-cai-tu-nhua-3-canh-dai-loan-xuan-thuy), trưa ngày 14/8/2026 (ngày mùng 2 tháng Bảy âm lịch), xe chở hàng của **KTS Cường Nguyễn** tiếp tục lăn bánh thực hiện chuyến bàn giao mới. Điểm đến lần này là văn phòng chia sẻ/co-working không gian công nghệ **TechSpace** của **anh Việt**, nằm sâu trong ngõ 93 Hoàng Văn Thái, quận Thanh Xuân, Hà Nội – chặng đường dài khoảng 12km từ xưởng sản xuất ngõ 19 Hàm Nghi.
 
 ---
 
@@ -46,7 +46,7 @@ Một chiếc quầy lễ tân chỉn chu, sang trọng không chỉ là bộ m�
 
 Quý khách hàng, chủ doanh nghiệp, cửa hàng đang tìm kiếm giải pháp quầy thu ngân, quầy lễ tân nhựa Đài Loan Chin-Huei bền - đẹp - chống ẩm mốc, vui lòng tham khảo thêm tại:
 * [Bộ sưu tập Quầy lễ tân nhựa Đài Loan Chin-Huei chính hãng](https://noithatchinhuei.io.vn/quay-le-tan-nhua-dai-loan-chin-huei/)
-* Xem lại nhật ký công trình trước: [Bàn giao 4 tủ nhựa 3 cánh cho anh Tuấn (Xuân Thủy)](https://noithatchinhuei.github.io/ktscuongnguyen.github.io/du-an/anh-tuan-4-cai-tu-nhua-3-canh-dai-loan-xuan-thuy)
+* Xem lại nhật ký công trình trước: [Bàn giao 4 tủ nhựa 3 cánh cho anh Tuấn (Xuân Thủy)](https://ktscuongnguyen.io.vn)/du-an/anh-tuan-4-cai-tu-nhua-3-canh-dai-loan-xuan-thuy)
 
 ---
 
@@ -54,4 +54,4 @@ Quý khách hàng, chủ doanh nghiệp, cửa hàng đang tìm kiếm giải ph
 * **Thương hiệu:** Nội Thất Chin-Huei - KTS Cường Nguyễn
 * **Địa chỉ xưởng sản xuất:** Ngõ 19 Hàm Nghi, P. Cầu Diễn, Q. Nam Từ Liêm, Hà Nội
 * **Hotline / Zalo tư vấn:** **0359 117 525**
-* **GitHub Repository:** [https://noithatchinhuei.github.io/ktscuongnguyen.github.io/](https://noithatchinhuei.github.io/ktscuongnguyen.github.io/)
+* **GitHub Repository:** [https://ktscuongnguyen.io.vn)/](https://ktscuongnguyen.io.vn)/)

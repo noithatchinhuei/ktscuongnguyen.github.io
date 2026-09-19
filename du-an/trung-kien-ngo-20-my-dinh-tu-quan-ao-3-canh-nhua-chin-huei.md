@@ -1,6 +1,6 @@
 # Nhật ký thi công: Bàn giao Tủ quần áo 3 cánh 4 ngăn kéo nhựa Chin-Huei (CH-T3C04) màu ghi xám cho bạn Trung Kiên (Ngõ 20 Mỹ Đình, Từ Liêm) – Tân sinh viên đón Rằm tháng 7 đầu tiên tại Hà Nội
 
-Ngay sau khi hoàn thành [ca bàn giao tủ quần áo 3 cánh lùa nhựa Chin-Huei cho bạn tân sinh viên tại khu trọ Nhổn](https://noithatchinhuei.github.io/ktscuongnguyen.github.io/du-an/tan-sinh-vien-nhon-tu-quan-ao-3-canh-lua-nhua-chin-huei) trong buổi sáng rạng rỡ, đội ngũ thợ xưởng **KTS Cường Nguyễn** thu dọn đồ đạc để quay trở về xưởng Hàm Nghi chuẩn bị cho chuyến giao tiếp theo.
+Ngay sau khi hoàn thành [ca bàn giao tủ quần áo 3 cánh lùa nhựa Chin-Huei cho bạn tân sinh viên tại khu trọ Nhổn](https://ktscuongnguyen.io.vn)/du-an/tan-sinh-vien-nhon-tu-quan-ao-3-canh-lua-nhua-chin-huei) trong buổi sáng rạng rỡ, đội ngũ thợ xưởng **KTS Cường Nguyễn** thu dọn đồ đạc để quay trở về xưởng Hàm Nghi chuẩn bị cho chuyến giao tiếp theo.
 
 ---
 

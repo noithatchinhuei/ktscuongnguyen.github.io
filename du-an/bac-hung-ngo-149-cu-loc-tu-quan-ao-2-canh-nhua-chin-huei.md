@@ -1,6 +1,6 @@
 # Nhật ký thi công: Bàn giao Tủ quần áo 2 cánh mở 1 kệ nhựa Chin-Huei (CH-T2C11) cho Bác Hùng (Ngõ 149 Cự Lộc, Khương Đình) – Giao gấp chuẩn bị cho tân sinh viên nhập học
 
-Trở về xưởng Hàm Nghi sau chuyến [bàn giao tủ quần áo 5 cánh lùa cho anh Công Lý tại Thôn Muôn, xã Kiều Phú](https://noithatchinhuei.github.io/ktscuongnguyen.github.io/du-an/anh-cong-ly-thon-muon-kieu-phu-tu-quan-ao-5-canh-lua-nhua-chin-huei) trong buổi trưa ngày 25/8/2026, đội ngũ **KTS Cường Nguyễn** vừa kịp nghỉ tay thì nhận được cuộc gọi giục vội vã từ **Bác Hùng** tại **ngõ 149 Cự Lộc, phường Khương Đình** (cách xưởng khoảng 8.5km).
+Trở về xưởng Hàm Nghi sau chuyến [bàn giao tủ quần áo 5 cánh lùa cho anh Công Lý tại Thôn Muôn, xã Kiều Phú](https://ktscuongnguyen.io.vn)/du-an/anh-cong-ly-thon-muon-kieu-phu-tu-quan-ao-5-canh-lua-nhua-chin-huei) trong buổi trưa ngày 25/8/2026, đội ngũ **KTS Cường Nguyễn** vừa kịp nghỉ tay thì nhận được cuộc gọi giục vội vã từ **Bác Hùng** tại **ngõ 149 Cự Lộc, phường Khương Đình** (cách xưởng khoảng 8.5km).
 
 Bác Hùng sốt ruột chia sẻ cháu bác vừa từ quê lên Hà Nội để chuẩn bị nhập học vào ngày mai nhưng căn phòng trọ vẫn chưa có tủ cất giữ đồ đạc, quần áo vẫn phải để tạm trong vali. Nắm được sự gấp gáp đó, đội ngũ thợ xưởng lập tức cẩu tủ lên xe và di chuyển ngay trong đầu giờ chiều 25/8.
 

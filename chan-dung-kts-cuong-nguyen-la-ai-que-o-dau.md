@@ -51,7 +51,7 @@ Nhờ sự tỉ mỉ trong từng đường nét may đo, thương hiệu KTS C�
 
 * **Website Webflow:** [https://ktscuongnguyen.webflow.io/](https://ktscuongnguyen.webflow.io/)
 * **Blogspot Nhật ký công trình:** [https://ktscuongnguyen.blogspot.com/](https://ktscuongnguyen.blogspot.com/)
-* **GitHub Repository:** [https://noithatchinhuei.github.io/ktscuongnguyen.github.io](https://noithatchinhuei.github.io/ktscuongnguyen.github.io)
+* **GitHub Repository:** [https://ktscuongnguyen.io.vn)](https://ktscuongnguyen.io.vn))
 * **Trang cá nhân Instagram:** [https://www.instagram.com/ktscuongnguyen/](https://www.instagram.com/ktscuongnguyen/)
 * **Kênh ý tưởng Pinterest:** [https://www.pinterest.com/ktscuongnguyenvn/](https://www.pinterest.com/ktscuongnguyenvn/)
 

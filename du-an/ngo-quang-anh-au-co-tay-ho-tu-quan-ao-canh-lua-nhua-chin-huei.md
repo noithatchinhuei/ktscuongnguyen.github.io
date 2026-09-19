@@ -1,6 +1,6 @@
 # Nhật ký thi công Tủ quần áo 4 cánh lùa nhựa Đài Loan Chin-Huei xám ghi cao cấp cho anh Ngô Quang Anh (Ngõ 264 Âu Cơ, Tây Hồ)
 
-Tiếp nối công trình [bàn giao tủ quần áo chữ L kích trần cho anh Gia Bảo tại ngõ 27 Lai Xá](https://noithatchinhuei.github.io/ktscuongnguyen.github.io/du-an/gia-bao-lai-xa-hoai-duc-tu-quan-ao-chu-l-nhua-chin-huei), vào ca tối ngày 20/8/2026, đội ngũ kỹ thuật của **KTS Cường Nguyễn** tiếp tục lên đường thực hiện chuyến bàn giao cuối ngày.
+Tiếp nối công trình [bàn giao tủ quần áo chữ L kích trần cho anh Gia Bảo tại ngõ 27 Lai Xá](https://ktscuongnguyen.io.vn)/du-an/gia-bao-lai-xa-hoai-duc-tu-quan-ao-chu-l-nhua-chin-huei), vào ca tối ngày 20/8/2026, đội ngũ kỹ thuật của **KTS Cường Nguyễn** tiếp tục lên đường thực hiện chuyến bàn giao cuối ngày.
 
 Điểm đến lần này là căn nhà riêng của **anh Ngô Quang Anh** tại **ngõ 264 Âu Cơ, phường Nhật Tân, quận Tây Hồ** – cách xưởng Hàm Nghi khoảng 8.2km.
 

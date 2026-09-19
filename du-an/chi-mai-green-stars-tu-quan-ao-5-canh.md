@@ -86,7 +86,7 @@ Ngõ 19 Hàm Nghi, phường Từ Liêm, Hà Nội
 
 **Hotline:** 0359 117 525
 
-👉 [Trang chủ KTS Cường Nguyễn](https://noithatchinhuei.github.io/ktscuongnguyen.github.io/)
+👉 [Trang chủ KTS Cường Nguyễn](https://ktscuongnguyen.io.vn)/)
 
 👉 [Tủ quần áo 5 cánh nhựa Đài Loan Chin Huei](https://noithatchinhuei.io.vn/tu-quan-ao-5-canh-nhua-dai-loan-chin-huei/)
 
@@ -148,15 +148,15 @@ Ngõ 19 Hàm Nghi, phường Từ Liêm, Hà Nội
         "https://www.instagram.com/ktscuongnguyen/",
         "https://www.pinterest.com/ktscuongnguyenvn/",
         "https://ktscuongnguyen.webflow.io/",
-        "https://noithatchinhuei.github.io/ktscuongnguyen.github.io/",
+        "https://ktscuongnguyen.io.vn)/",
         "https://ktscuongnguyen.blogspot.com/"
       ]
     },
 
     {
       "@type": "WebSite",
-      "@id": "https://noithatchinhuei.github.io/ktscuongnguyen.github.io/#website",
-      "url": "https://noithatchinhuei.github.io/ktscuongnguyen.github.io/",
+      "@id": "https://ktscuongnguyen.io.vn)/#website",
+      "url": "https://ktscuongnguyen.io.vn)/",
       "name": "KTS Cường Nguyễn",
       "publisher": {
         "@id": "https://noithatchinhuei.io.vn/#organization"
@@ -166,12 +166,12 @@ Ngõ 19 Hàm Nghi, phường Từ Liêm, Hà Nội
 
     {
       "@type": "WebPage",
-      "@id": "https://noithatchinhuei.github.io/ktscuongnguyen.github.io/du-an/chi-mai-green-stars-tu-quan-ao/",
-      "url": "https://noithatchinhuei.github.io/ktscuongnguyen.github.io/du-an/chi-mai-green-stars-tu-quan-ao/",
+      "@id": "https://ktscuongnguyen.io.vn)/du-an/chi-mai-green-stars-tu-quan-ao/",
+      "url": "https://ktscuongnguyen.io.vn)/du-an/chi-mai-green-stars-tu-quan-ao/",
       "name": "Chị Phan Hoàng Mai bàn giao tủ quần áo 5 cánh nhựa Đài Loan Chin Huei tại Green Stars",
       "description": "Công trình bàn giao tủ quần áo 5 cánh nhựa Đài Loan Chin Huei cho chị Phan Hoàng Mai tại Chung cư Green Stars, Phạm Văn Đồng ngày 08/08/2026.",
       "isPartOf": {
-        "@id": "https://noithatchinhuei.github.io/ktscuongnguyen.github.io/#website"
+        "@id": "https://ktscuongnguyen.io.vn)/#website"
       },
       "about": {
         "@id": "https://noithatchinhuei.io.vn/#organization"
@@ -187,7 +187,7 @@ Ngõ 19 Hàm Nghi, phường Từ Liêm, Hà Nội
 
     {
       "@type": "Article",
-      "@id": "https://noithatchinhuei.github.io/ktscuongnguyen.github.io/du-an/chi-mai-green-stars-tu-quan-ao/#article",
+      "@id": "https://ktscuongnguyen.io.vn)/du-an/chi-mai-green-stars-tu-quan-ao/#article",
       "headline": "Chị Phan Hoàng Mai bàn giao tủ quần áo 5 cánh nhựa Đài Loan Chin Huei tại Green Stars trong ngày đôi 8/8",
       "description": "Ghi nhận công trình bàn giao tủ quần áo 5 cánh nhựa Đài Loan Chin Huei cho chị Phan Hoàng Mai tại Green Stars, Phạm Văn Đồng.",
       "datePublished": "2026-08-08T10:00:00+07:00",
@@ -199,7 +199,7 @@ Ngõ 19 Hàm Nghi, phường Từ Liêm, Hà Nội
         "@id": "https://noithatchinhuei.io.vn/#organization"
       },
       "mainEntityOfPage": {
-        "@id": "https://noithatchinhuei.github.io/ktscuongnguyen.github.io/du-an/chi-mai-green-stars-tu-quan-ao/"
+        "@id": "https://ktscuongnguyen.io.vn)/du-an/chi-mai-green-stars-tu-quan-ao/"
       },
       "articleSection": "Dự án",
       "keywords": [
@@ -218,25 +218,25 @@ Ngõ 19 Hàm Nghi, phường Từ Liêm, Hà Nội
 
     {
       "@type": "BreadcrumbList",
-      "@id": "https://noithatchinhuei.github.io/ktscuongnguyen.github.io/du-an/chi-mai-green-stars-tu-quan-ao/#breadcrumb",
+      "@id": "https://ktscuongnguyen.io.vn)/du-an/chi-mai-green-stars-tu-quan-ao/#breadcrumb",
       "itemListElement": [
         {
           "@type": "ListItem",
           "position": 1,
           "name": "Trang chủ",
-          "item": "https://noithatchinhuei.github.io/ktscuongnguyen.github.io/"
+          "item": "https://ktscuongnguyen.io.vn)/"
         },
         {
           "@type": "ListItem",
           "position": 2,
           "name": "Dự án",
-          "item": "https://noithatchinhuei.github.io/ktscuongnguyen.github.io/du-an-tong-hop/"
+          "item": "https://ktscuongnguyen.io.vn)/du-an-tong-hop/"
         },
         {
           "@type": "ListItem",
           "position": 3,
           "name": "Chị Phan Hoàng Mai – Green Stars",
-          "item": "https://noithatchinhuei.github.io/ktscuongnguyen.github.io/du-an/chi-mai-green-stars-tu-quan-ao/"
+          "item": "https://ktscuongnguyen.io.vn)/du-an/chi-mai-green-stars-tu-quan-ao/"
         }
       ]
     }
