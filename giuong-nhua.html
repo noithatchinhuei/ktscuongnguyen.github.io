@@ -1,0 +1,54 @@
+---
+layout: default
+title: "Giường Ngủ Nhựa Đài Loan Chin Huei | Chịu Lực Tốt, Mẫu Đẹp"
+description: "Tổng hợp các mẫu giường ngủ nhựa Đài Loan, giường nhựa Chin Huei cao cấp 1m6, 1m8, giường có hộc kéo. Khung gân chịu lực cao, chống ẩm mốc, không kêu."
+---
+
+<!-- Meta SEO & Keywords -->
+<meta name="keywords" content="giường ngủ nhựa Đài Loan, giường nhựa Chin Huei, giường ngủ nhựa cao cấp, giường nhựa có ngăn kéo, giường ngủ nhựa 1m8, giường nhựa chịu lực">
+
+<div style="max-width: 1000px; margin: 0 auto; padding: 20px 10px;">
+
+  <!-- Tiêu đề & Lời dẫn chuẩn SEO chứa từ khóa -->
+  <header style="text-align: center; margin-bottom: 30px;">
+    <h1 style="color: #ff9900; font-size: 28px; text-transform: uppercase; margin-bottom: 10px;">
+      Bộ Sưu Tập Giường Ngủ Nhựa Đài Loan Chin Huei
+    </h1>
+    <p style="color: #ccc; font-size: 15px; line-height: 1.6; max-width: 800px; margin: 0 auto;">
+      Tổng hợp các mẫu thiết kế và thi công <strong>giường ngủ nhựa Đài Loan</strong> chính hãng Chin Huei. Kết cấu gân tăng cường chịu tải trọng lớn, tích hợp ngăn kéo chứa đồ tiện lợi, cam kết <em>chống ẩm mốc, chống mối mọt 100%</em> và không phát ra tiếng kêu khi sử dụng.
+    </p>
+  </header>
+
+  <!-- Lưới hiển thị bài viết/sản phẩm tự động -->
+  <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 20px;">
+    {% for post in site.posts %}
+      {% if post.categories contains 'giuong-ngu' or post.url contains 'giuong' or post.title contains 'Giường' %}
+        <article style="background: #1e1e1e; border-radius: 8px; overflow: hidden; border: 1px solid #333; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
+          <a href="{{ post.url }}">
+            <img src="{{ post.image }}" alt="{{ post.title }}" style="width: 100%; height: 210px; object-fit: cover; display: block;">
+          </a>
+          <div style="padding: 15px;">
+            <h2 style="font-size: 16px; margin: 0 0 10px 0; line-height: 1.4;">
+              <a href="{{ post.url }}" style="color: #fff; text-decoration: none;">{{ post.title }}</a>
+            </h2>
+            <p style="font-size: 13px; color: #aaa; margin: 0; line-height: 1.5;">
+              {{ post.description | default: post.content | strip_html | truncate: 100 }}
+            </p>
+            <div style="margin-top: 12px; font-size: 12px; color: #ff9900; font-weight: bold;">
+              Xem chi tiết mẫu giường ngủ →
+            </div>
+          </div>
+        </article>
+      {% endif %}
+    {% endfor %}
+  </div>
+
+  <!-- Đoạn văn bản SEO bổ sung độ phủ từ khóa ở chân trang -->
+  <section style="margin-top: 50px; padding: 20px; background-color: #181818; border-radius: 8px; border-left: 4px solid #ff9900;">
+    <h3 style="color: #ff9900; font-size: 18px; margin-top: 0;">Ưu Điểm Của Giường Ngủ Nhựa Đài Loan Chin Huei</h3>
+    <p style="font-size: 14px; color: #ccc; line-height: 1.6;">
+      Các sản phẩm <strong>giường ngủ nhựa Đài Loan</strong> do KTS Cường Nguyễn thiết kế sử dụng hệ thang giường chịu lực chắc chắn cùng chất liệu nhựa Chin Huei nguyên sinh cao cấp. Giường không bị ảnh hưởng bởi độ ẩm nền nhà, hoàn toàn không mối mọt hay dát giường bị cong vênh theo thời gian. Mẫu mã đa dạng từ giường đơn, giường đôi 1m6x2m, 1m8x2m đến hệ giường tích hợp hộc kéo gầm giường tối ưu không gian cho phòng ngủ nhỏ.
+    </p>
+  </section>
+
+</div>
