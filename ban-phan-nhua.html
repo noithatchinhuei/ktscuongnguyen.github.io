@@ -1,0 +1,54 @@
+---
+layout: default
+title: "Bàn Phấn Nhựa Đài Loan Chin Huei Cao Cấp | Bàn Trang Điểm Đẹp"
+description: "Tổng hợp các mẫu bàn phấn nhựa Đài Loan, bàn trang điểm nhựa Chin Huei cao cấp. Thiết kế hiện đại có đèn LED, gương soi, chống ẩm mốc, mối mọt 100%."
+---
+
+<!-- Meta SEO & Keywords -->
+<meta name="keywords" content="bàn phấn nhựa Đài Loan, bàn trang điểm nhựa Đài Loan, bàn phấn nhựa Chin Huei, bàn trang điểm nhựa cao cấp, bàn phấn nhựa có đèn led">
+
+<div style="max-width: 1000px; margin: 0 auto; padding: 20px 10px;">
+
+  <!-- Tiêu đề & Lời dẫn chuẩn SEO chứa từ khóa -->
+  <header style="text-align: center; margin-bottom: 30px;">
+    <h1 style="color: #ff9900; font-size: 28px; text-transform: uppercase; margin-bottom: 10px;">
+      Bộ Sưu Tập Bàn Phấn Nhựa Đài Loan Chin Huei
+    </h1>
+    <p style="color: #ccc; font-size: 15px; line-height: 1.6; max-width: 800px; margin: 0 auto;">
+      Tổng hợp các dự án thiết kế và thi công <strong>bàn phấn nhựa Đài Loan</strong> (bàn trang điểm nhựa) chính hãng Chin Huei. Kiểu dáng sang trọng, tích hợp gương đèn LED, nhiều ngăn kéo tiện lợi, cam kết <em>chống ẩm mốc, chống mối mọt 100%</em> và không cong vênh.
+    </p>
+  </header>
+
+  <!-- Lưới hiển thị bài viết/sản phẩm tự động -->
+  <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 20px;">
+    {% for post in site.posts %}
+      {% if post.categories contains 'ban-phan' or post.url contains 'ban-phan' or post.title contains 'Bàn Phấn' or post.title contains 'Bàn Trang Điểm' %}
+        <article style="background: #1e1e1e; border-radius: 8px; overflow: hidden; border: 1px solid #333; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
+          <a href="{{ post.url }}">
+            <img src="{{ post.image }}" alt="{{ post.title }}" style="width: 100%; height: 210px; object-fit: cover; display: block;">
+          </a>
+          <div style="padding: 15px;">
+            <h2 style="font-size: 16px; margin: 0 0 10px 0; line-height: 1.4;">
+              <a href="{{ post.url }}" style="color: #fff; text-decoration: none;">{{ post.title }}</a>
+            </h2>
+            <p style="font-size: 13px; color: #aaa; margin: 0; line-height: 1.5;">
+              {{ post.description | default: post.content | strip_html | truncate: 100 }}
+            </p>
+            <div style="margin-top: 12px; font-size: 12px; color: #ff9900; font-weight: bold;">
+              Xem chi tiết mẫu bàn phấn →
+            </div>
+          </div>
+        </article>
+      {% endif %}
+    {% endfor %}
+  </div>
+
+  <!-- Đoạn văn bản SEO bổ sung độ phủ từ khóa ở chân trang -->
+  <section style="margin-top: 50px; padding: 20px; background-color: #181818; border-radius: 8px; border-left: 4px solid #ff9900;">
+    <h3 style="color: #ff9900; font-size: 18px; margin-top: 0;">Ưu Điểm Của Bàn Phấn Nhựa Đài Loan Chin Huei</h3>
+    <p style="font-size: 14px; color: #ccc; line-height: 1.6;">
+      Các sản phẩm <strong>bàn phấn nhựa Đài Loan</strong> do KTS Cường Nguyễn thiết kế được sản xuất từ chất liệu nhựa sinh thái Chin Huei cao cấp. Bề mặt sáng bóng, dễ dàng lau chùi vết mỹ phẩm, không lo ẩm mốc hay bong tróc dưới thời tiết nồm ẩm. Tùy chỉnh kích thước, màu sắc và kiểu dáng gương soi theo phong cách riêng của từng phòng ngủ.
+    </p>
+  </section>
+
+</div>
