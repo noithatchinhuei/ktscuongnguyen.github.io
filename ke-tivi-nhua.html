@@ -1,0 +1,54 @@
+---
+layout: default
+title: "Kệ Tivi Nhựa Đài Loan Chin Huei Cao Cấp | Mẫu Đẹp, Hiện Đại"
+description: "Tổng hợp các mẫu kệ tivi nhựa Đài Loan, kệ tivi nhựa Chin Huei treo tường và để sàn. Thiết kế hiện đại, chống ẩm mốc, chịu lực tốt, không cong vênh 100%."
+---
+
+<!-- Meta SEO & Keywords -->
+<meta name="keywords" content="kệ tivi nhựa Đài Loan, kệ tivi nhựa Chin Huei, kệ tivi nhựa treo tường, kệ tivi nhựa phòng khách, kệ tivi nhựa cao cấp">
+
+<div style="max-width: 1000px; margin: 0 auto; padding: 20px 10px;">
+
+  <!-- Tiêu đề & Lời dẫn chuẩn SEO chứa từ khóa -->
+  <header style="text-align: center; margin-bottom: 30px;">
+    <h1 style="color: #ff9900; font-size: 28px; text-transform: uppercase; margin-bottom: 10px;">
+      Bộ Sưu Tập Kệ Tivi Nhựa Đài Loan Chin Huei
+    </h1>
+    <p style="color: #ccc; font-size: 15px; line-height: 1.6; max-width: 800px; margin: 0 auto;">
+      Tổng hợp các mẫu thiết kế và thi công <strong>kệ tivi nhựa Đài Loan</strong> chính hãng Chin Huei. Tạo điểm nhấn sang trọng cho không gian phòng khách và phòng ngủ, cam kết <em>chống ẩm mốc, chống mối mọt 100%</em>, kết cấu chịu lực vượt trội.
+    </p>
+  </header>
+
+  <!-- Lưới hiển thị bài viết/sản phẩm tự động -->
+  <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 20px;">
+    {% for post in site.posts %}
+      {% if post.categories contains 'ke-tivi' or post.url contains 'ke-tivi' or post.title contains 'Kệ Tivi' or post.title contains 'Kệ TV' %}
+        <article style="background: #1e1e1e; border-radius: 8px; overflow: hidden; border: 1px solid #333; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
+          <a href="{{ post.url }}">
+            <img src="{{ post.image }}" alt="{{ post.title }}" style="width: 100%; height: 210px; object-fit: cover; display: block;">
+          </a>
+          <div style="padding: 15px;">
+            <h2 style="font-size: 16px; margin: 0 0 10px 0; line-height: 1.4;">
+              <a href="{{ post.url }}" style="color: #fff; text-decoration: none;">{{ post.title }}</a>
+            </h2>
+            <p style="font-size: 13px; color: #aaa; margin: 0; line-height: 1.5;">
+              {{ post.description | default: post.content | strip_html | truncate: 100 }}
+            </p>
+            <div style="margin-top: 12px; font-size: 12px; color: #ff9900; font-weight: bold;">
+              Xem chi tiết mẫu kệ tivi →
+            </div>
+          </div>
+        </article>
+      {% endif %}
+    {% endfor %}
+  </div>
+
+  <!-- Đoạn văn bản SEO bổ sung độ phủ từ khóa ở chân trang -->
+  <section style="margin-top: 50px; padding: 20px; background-color: #181818; border-radius: 8px; border-left: 4px solid #ff9900;">
+    <h3 style="color: #ff9900; font-size: 18px; margin-top: 0;">Tại Sao Nên Chọn Kệ Tivi Nhựa Đài Loan Chin Huei?</h3>
+    <p style="font-size: 14px; color: #ccc; line-height: 1.6;">
+      Các dòng <strong>kệ tivi nhựa Đài Loan</strong> do KTS Cường Nguyễn thiết kế sử dụng chất liệu nhựa Chin Huei 2.0 Plus có kết cấu gân sóng mật độ cao, giúp đảm bảo khả năng chịu lực an toàn cho các dòng tivi màn hình lớn và hệ thiết bị âm thanh. Sản phẩm đa dạng kiểu dáng từ kệ tivi rút 2 đầu linh hoạt, kệ tivi treo tường tối ưu không gian đến hệ kệ tivi kết hợp tủ trang trí kịch trần đẳng cấp.
+    </p>
+  </section>
+
+</div>
