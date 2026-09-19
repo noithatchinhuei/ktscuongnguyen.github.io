@@ -1,0 +1,54 @@
+---
+layout: default
+title: "Tủ Giày Nhựa Đài Loan Chin Huei | Thông Thoáng, Chống Mùi"
+description: "Tổng hợp các mẫu tủ giày nhựa Đài Loan, tủ đựng giày dép nhựa Chin Huei cao cấp. Thiết kế cửa lá sách thông thoáng, chống ẩm mốc, mối mọt 100%."
+---
+
+<!-- Meta SEO & Keywords -->
+<meta name="keywords" content="tủ giày nhựa Đài Loan, tủ giày nhựa Chin Huei, tủ đựng giày dép nhựa, tủ giày nhựa thông minh, tủ giày nhựa chống ẩm mốc">
+
+<div style="max-width: 1000px; margin: 0 auto; padding: 20px 10px;">
+
+  <!-- Tiêu đề & Lời dẫn chuẩn SEO chứa từ khóa -->
+  <header style="text-align: center; margin-bottom: 30px;">
+    <h1 style="color: #ff9900; font-size: 28px; text-transform: uppercase; margin-bottom: 10px;">
+      Bộ Sưu Tập Tủ Giày Nhựa Đài Loan Chin Huei
+    </h1>
+    <p style="color: #ccc; font-size: 15px; line-height: 1.6; max-width: 800px; margin: 0 auto;">
+      Tổng hợp các mẫu thiết kế và thi công <strong>tủ giày nhựa Đài Loan</strong> chính hãng Chin Huei. Giải pháp bảo quản giày dép tối ưu, giữ không gian sảnh nhà luôn gọn gàng, cam kết <em>chống ẩm mốc, chống mối mọt, dễ dàng vệ sinh lau chùi</em>.
+    </p>
+  </header>
+
+  <!-- Lưới hiển thị bài viết/sản phẩm tự động -->
+  <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 20px;">
+    {% for post in site.posts %}
+      {% if post.categories contains 'tu-giay' or post.url contains 'tu-giay' or post.title contains 'Tủ Giày' or post.title contains 'Tủ Giày Dép' %}
+        <article style="background: #1e1e1e; border-radius: 8px; overflow: hidden; border: 1px solid #333; transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'">
+          <a href="{{ post.url }}">
+            <img src="{{ post.image }}" alt="{{ post.title }}" style="width: 100%; height: 210px; object-fit: cover; display: block;">
+          </a>
+          <div style="padding: 15px;">
+            <h2 style="font-size: 16px; margin: 0 0 10px 0; line-height: 1.4;">
+              <a href="{{ post.url }}" style="color: #fff; text-decoration: none;">{{ post.title }}</a>
+            </h2>
+            <p style="font-size: 13px; color: #aaa; margin: 0; line-height: 1.5;">
+              {{ post.description | default: post.content | strip_html | truncate: 100 }}
+            </p>
+            <div style="margin-top: 12px; font-size: 12px; color: #ff9900; font-weight: bold;">
+              Xem chi tiết mẫu tủ giày →
+            </div>
+          </div>
+        </article>
+      {% endif %}
+    {% endfor %}
+  </div>
+
+  <!-- Đoạn văn bản SEO bổ sung độ phủ từ khóa ở chân trang -->
+  <section style="margin-top: 50px; padding: 20px; background-color: #181818; border-radius: 8px; border-left: 4px solid #ff9900;">
+    <h3 style="color: #ff9900; font-size: 18px; margin-top: 0;">Lý Do Nên Chọn Tủ Giày Nhựa Đài Loan Chin Huei</h3>
+    <p style="font-size: 14px; color: #ccc; line-height: 1.6;">
+      Các sản phẩm <strong>tủ giày nhựa Đài Loan</strong> do KTS Cường Nguyễn thiết kế được tối ưu hóa khả năng thoát khí nhờ hệ cánh chớp (lá sách) hoặc kẽ hở thông minh, giúp hạn chế tối đa mùi hôi và ẩm mốc bám vào giày dép. Chất liệu nhựa Chin Huei cao cấp giúp tủ dễ dàng rửa nước hay lau chùi vệt bẩn đất cát mà không sợ mốc hay bong tróc như gỗ công nghiệp.
+    </p>
+  </section>
+
+</div>
