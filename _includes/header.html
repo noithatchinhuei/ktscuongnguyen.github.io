@@ -1,16 +1,16 @@
 <!-- HEADER CỐ ĐỊNH - TỐI ƯU SEO & CHUẨN MÀU LOGO KTS CƯỜNG NGUYỄN (VÀNG - ĐEN) -->
+{% raw %}
 <style>
   :root {
-    --primary-gold: #ff9900; /* Màu vàng điểm nhấn theo logo */
-    --gold-hover: #e08800;    /* Màu vàng đậm khi hover */
-    --dark-bg: #121212;      /* Nền đen sang trọng */
-    --dark-card: #1e1e1e;    /* Nền menu mobile */
-    --link-blue: #4a90e2;    /* Màu xanh đường dẫn menu */
+    --primary-gold: #ff9900;
+    --gold-hover: #e08800;
+    --dark-bg: #121212;
+    --dark-card: #1e1e1e;
+    --link-blue: #4a90e2;
     --white: #ffffff;
     --border-color: #222222;
   }
 
-  /* Structural Styles */
   .main-header {
     background-color: var(--dark-bg);
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.5);
@@ -45,7 +45,6 @@
     box-shadow: 0 0 10px rgba(255,153,0,0.3);
   }
 
-  /* Navigation Bar */
   .main-nav {
     display: flex;
     align-items: center;
@@ -79,7 +78,6 @@
     background-color: rgba(255, 153, 0, 0.1);
   }
 
-  /* Highlight danh mục quan trọng */
   .nav-item.highlight a {
     color: var(--primary-gold);
   }
@@ -89,7 +87,6 @@
     color: var(--dark-bg);
   }
 
-  /* Responsive Mobile Toggle */
   .mobile-menu-btn {
     display: none;
     background: none;
@@ -131,6 +128,7 @@
     }
   }
 </style>
+{% endraw %}
 
 <header class="main-header">
   <div class="header-container">
@@ -144,7 +142,7 @@
     <!-- Nút Mobile Menu -->
     <button class="mobile-menu-btn" onclick="toggleMobileMenu()" aria-label="Toggle Navigation">☰</button>
 
-    <!-- Menu 14 Danh Mục Chuẩn SEO của KTS Cường Nguyễn -->
+    <!-- Menu 14 Danh Mục -->
     <nav class="main-nav">
       <ul class="nav-list" id="nav-list">
         <li class="nav-item"><a href="/tu-nhua-quan-ao.html">TỦ NHỰA QUẦN ÁO ĐÀI LOAN</a></li>
@@ -166,9 +164,11 @@
   </div>
 </header>
 
+{% raw %}
 <script>
   function toggleMobileMenu() {
     var nav = document.getElementById('nav-list');
     nav.classList.toggle('active');
   }
 </script>
+{% endraw %}
