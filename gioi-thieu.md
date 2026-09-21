@@ -7,7 +7,7 @@ permalink: /gioi-thieu/
 # KTS Cường Nguyễn – Thiết kế & Thi công nội thất nhựa Đài Loan Chin Huei
 
 Xin chào! Tôi là **KTS Cường Nguyễn**, tốt nghiệp **Trường Đại học Kiến trúc Hà Nội**, hiện đang hoạt động trong lĩnh vực thiết kế và thi công nội thất dân dụng với định hướng mang đến những không gian sống tiện nghi, bền đẹp và phù hợp với nhu cầu sử dụng của từng gia đình.
-
+<img src="https://raw.githubusercontent.com/noithatchinhuei/ktscuongnguyen.github.io/main/assets/images/KTS%20C%C6%B0%E1%BB%9Dng%20Nguy%E1%BB%85n.webp" alt="Chân dung Kiến trúc sư Cường Nguyễn - Chuyên gia thiết kế và thi công nội thất nhựa Đài Loan Chin Huei cao cấp">
 Trong quá trình làm nghề, tôi tập trung vào các giải pháp nội thất sử dụng **nhựa Đài Loan Chin Huei** – dòng vật liệu có khả năng chống nước, chống ẩm, chống mối mọt và phù hợp với điều kiện khí hậu tại Việt Nam. Mỗi công trình đều được khảo sát thực tế, tư vấn công năng và tối ưu theo diện tích cũng như ngân sách của khách hàng.
 
 ## Lĩnh vực thiết kế và thi công
