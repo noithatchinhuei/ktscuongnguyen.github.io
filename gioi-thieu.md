@@ -15,24 +15,7 @@ Trong quá trình làm nghề, tôi tập trung vào các giải pháp nội th�
 
 Tôi nhận tư vấn, thiết kế và thi công đa dạng các hạng mục nội thất, bao gồm:
 
-<script async defer onload="redcircleIframe();" src="https://api.podcache.net/embedded-player/sh/9e8040ef-9777-487b-bc6e-672c41279bdf/ep/cb6314ca-332b-43a5-8a2c-a249bb5bc84a"></script>
-    <div class="redcirclePlayer-cb6314ca-332b-43a5-8a2c-a249bb5bc84a"></div>
-    <style>
-    .redcircle-link:link {
-        color: #ea404d;
-        text-decoration: none;
-    }
-    .redcircle-link:hover {
-        color: #ea404d;
-    }
-    .redcircle-link:active {
-        color: #ea404d;
-    }
-    .redcircle-link:visited {
-        color: #ea404d;
-    }
-</style>
-<p style="margin-top:3px;margin-left:11px;font-family: sans-serif;font-size: 10px; color: gray;">Powered by <a class="redcircle-link" href="https://redcircle.com?utm_source=rc_embedded_player&utm_medium=web&utm_campaign=embedded_v1">RedCircle</a></p>
+
 
 - [Tủ nhựa quần áo](https://noithatchinhuei.io.vn/tu-nhua-quan-ao/)
 - [Tủ bếp nhựa](https://noithatchinhuei.io.vn/tu-bep-nhua/)
